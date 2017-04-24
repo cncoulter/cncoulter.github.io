@@ -1,0 +1,23 @@
+---
+layout: page
+title: Archive
+permalink: /blog/archive/
+published: true
+---
+
+<table style="margin-left: auto; margin-right: auto">
+	{% for post in site.posts %}
+	<tr>
+				<td style="text-align: right; padding: 0.5em">{{ post.date | date: "%e %B %Y" }}</td>
+				<td style="text-align: left; padding: 0.5em"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+	</tr>
+	{% endfor %}
+</table>
+
+<p style="text-align: center"><a href="{{ site.baseurl }}/tags/">tag index</a></p>
+
+{% if site.footer-links.rss %}
+	<div class="icons">
+		<p><a href="{{ site.baseurl }}/feed.xml"><i class="svg-icon rss"></i></a></p>
+	</div>
+{% endif %}

@@ -1,0 +1,28 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+published: true
+---
+
+<p>Below are my most recent posts. You can also check out my blog's <a href="{{ site.baseurl }}/blog/archive">archive</a>, view a <a href="{{ site.baseurl }}/tags">tag index</a>, or <a href="{{ site.baseurl }}/feed.xml">subscribe</a> to the RSS feed.</p>
+
+<div class="posts">
+  {% for post in site.posts limit:3 %}
+    <article class="post">
+
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+		<p class="date">{{ post.date | date: "%e %B %Y" }}</p>
+
+      <div class="entry">
+        {{ post.content }}
+      </div>
+
+		{% if post.tags != empty %}
+			<p class="date">Tags: {% for tag in post.tags %}<a href="{{site.url}}{{site.baseurl}}/tags/#{{tag}}-ref">{{tag}}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</p>
+		{% endif %}
+
+    </article>
+  {% endfor %}
+</div>

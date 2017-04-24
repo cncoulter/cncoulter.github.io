@@ -13,13 +13,16 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
+          <!-- Here is your header photo commented out.
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          -->
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -27,8 +30,12 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/about">about</a>
+            <a href="{{ site.baseurl }}/blog">blog</a>
+            <!--
+            <a href="{{ site.baseurl }}/poetry">poetry</a>
+            <a href="{{ site.baseurl }}/fiction">fiction</a>
+            -->
           </nav>
         </header>
       </div>
@@ -41,7 +48,9 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          <p>&copy; Cameron N. Coulter 2017
+          <span class="aboutsite"><a href="{{ site.baseurl }}/about-this-site">about this site</a></span>
+          </p>
         </footer>
       </div>
     </div>
