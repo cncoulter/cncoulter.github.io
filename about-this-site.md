@@ -5,7 +5,7 @@ permalink: /about-this-site/
 published: true
 ---
 
-[cncoulter.com]({{ site.baseurl }}) is:
+[cncoulter.com]({{ site.baseurl }}/) is:
 
 * Powered by [Jekyll](https://jekyllrb.com/) with the theme [Jekyll Now](http://www.jekyllnow.com/)
 * Hosted on [GitHub](https://github.com/cncoulter/cncoulter.github.io) thanks to [GitHub Pages](https://pages.github.com/)
