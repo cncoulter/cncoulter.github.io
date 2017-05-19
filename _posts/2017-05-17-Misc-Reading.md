@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Miscellaneous Reading: 19 May 2017"
+permalink: 
+published: true
+date: 2017-05-19 11:49
+category: 
+tag: 
+- reading
+---
+
+After reading a couple [long]({{ site.baseurl }}{% post_url 2017-04-20-The-Left-Hand-of-Darkness %}), [dense]({{ site.baseurl }}{% post_url 2017-04-12-Community-and-Growth %}) books, it was time for a little reading re-charge. Which means: children's books!
+
+***The Fall of Fergal*, *Heir of Mystery*, and *The Rise of the House of McNally* by Philip Ardagh.**
+
+Philip Ardagh is one of my favorite children's authors. He wrote *The Eddie Dickens Trilogy* and *The Further Adventures of Eddie Dickens* (a sequel trilogy), delightful books which feature a young, polite boy, Monty Python style madness, and a chatty, irreverent third-person narrator.
+
+*The Fall of Fergal*, *Heir of Mystery*, and *The Rise of the House of McNally* comprise a trilogy which has nothing whatsoever to do with Eddie Dickens. The trilogy is called *Unlikely Exploits*, and it's great fun.
+
+Minor spoilers to follow.
+
+Each book has its own unique style, and the latter two books build brilliantly on what comes before. *The Fall of Fergal* starts out fairly mundane---it's not boring, but it's not fantastical either. At least, until the end of the story. *The Fall of Fergal* ends with a hilarious, strikingly absurd reveal that works perfectly.
+
+*Heir of Mystery* stays in the territory of the speculative and fantastic. Whereas *The Fall of Fergal* mostly revolves around a typing competition (mundane, as I said), *Heir of Mystery* is in many ways a mad scientist story. It's fun; the mad scientist is marvelously wacky, and I enjoyed seeing our protagonists in scary, unfamiliar territory.
+
+And then *The Rise of the House of McNally* just goes totally off the rails. The first two books in the trilogy leave readers with some unanswered questions, and *The Rise of the House of McNally* answers those questions---by introducing new characters and plot threads and by deploying countless science fictional tropes and absurdities. Time travel usually makes stories get crazy, but time travel is only the start of it here. Some readers might think there are too many tropes, too much absurdity, or too much insanity in this book. I, however, am not such a reader. This trilogy was one of the most delightful, genuinely surprising things I've ever read. These three short books feature a strikingly large number of plot threads, science fictional devices, and fantastic tropes, and Ardagh skillfully weaves these together, carefully compounding the threads of madness. Children's literature at it's finest.
+
+***The Tombs of Atuan* by Ursula K. Le Guin.**
+
+*The Tombs of Atuan* is the second book in Ursula K. Le Guin's Earthsea Cycle. The first book in this cycle, *A Wizard of Earthsea*, was actually the first book I [blogged]({{ site.baseurl }}{% post_url 2016-05-25-A-Wizard-of-Earthsea %}) about. And now here we are, one year later, with the sequel.
+
+*The Tombs of Atuan* rocks. Once again, Le Guin writes a marvelous high fantasy story driven by internal character development rather than militaristic conflict. Le Guin also continues to slowly decenter her narrative from the (typical) white male perspective.
+
+*A Wizard of Earthsea* is about a young boy who goes on to become one of the world's greatest wizards---not an uncommon trope. However, Le Guin challenged the usual western narrative by making most all of the characters in her world have brown or black skin. In *The Tombs of Atuan*, the protagonist is a girl called Arha, a priestess who holds an important role in her society. Ged, the hero of *A Wizard of Earthsea*, is featured in *The Tombs of Atuan*, but only because his storyline intersects with Arha's. It's a brilliant way to write the second book in a series: introduce a new protagonist, and make the hero from the first book a supporting character. This way, Le Guin gets to continue Ged's story while at the same time telling another coming-of-age story, centering the book around a different voice. Just like with *A Wizard of Earthsea*, Le Guin's *The Tombs of Atuan* still feels contemporary, still has wisdom to share about the stories we tell. It's also just a darn fun, engrossing read.
+
+***The Bad Beginning*, *The Reptile Room*, and *The Wide Window* by Lemony Snicket.**
+
+*The Bag Beginning*, the first book in Lemony Snicket's *A Series of Unfortunate Events*, begins with a warning:
+
+> If you are interested in stories with happy endings, you would be better off reading some other book. In this book, not only is there no happy ending, there is no happy beginning and very few happy things in the middle.
+
+I thought this warning was mostly rhetorical. I thought that the miseries of the series would be fodder for a macabre, black humor. I'm a big fan of black humor. I thought the above warning was a funny, creative way to open a series filled with lighthearted black comedy.
+
+I was wrong.
+
+I should have heeded that warning more seriously.
+
+In *A Series of Unfortunate Events*, the Baudelaire children encounter not only misfortune (which can often be silly) but also real misery (which is almost never silly). *The Bad Beginning* was a surprisingly difficult read. While in Count Olaf's care, the children are abused and neglected. It wasn't funny black humor; it was upsetting. Perhaps I was so affected by it because my job requires abuse and neglect training.
+
+I did enjoy the book. The writing was friendly, albeit dark. I felt compelled to keep reading because I wanted to reach the end of the book, for I guessed (correctly) that the Baudelaire children's fate would improve (if only slightly) at the book's conclusion.
+
+The next two books in the series, *The Reptile Room* and *The Wide Window*, were less upsetting. There were more happy things in the middle of those books, and there was also less abuse and neglect in those books. I guess I find sociopathic villains less upsetting when they aren't the legal guardians and care providers of our heroes. Go figure.
+
+I want to read more of this series, but I'm going to need some time before I can return to it.
+
