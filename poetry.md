@@ -2,9 +2,9 @@
 layout: page
 title: Poetry
 permalink: /poetry/
-published: false
+published: true
 ---
 
 ## 2017
 
-* "Title," Placeholder Magazine, Date
+* "The Economics of Starship Engines," *Eye to the Telescope Issue 25*, July 2017 (forthcoming)
