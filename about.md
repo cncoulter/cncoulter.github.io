@@ -7,17 +7,17 @@ published: true
 
 ## Short, third-person bio
 
-Cameron N. Coulter writes speculative fiction and poetry. He also likes to perform poetry, design ebooks, and tap dance. He's lived in California, Beijing, Baltimore, and Kansas. You can sign up for his mailing list at <https://tinyletter.com/cncoulter>.
+Cameron N. Coulter writes speculative fiction and poetry. He also likes to perform poetry, design ebooks, and tap dance. He's lived in California, Beijing, Baltimore, and Kansas. His poetry has appeared in *Eternal Haunted Summer* and *Eye to the Telescope*. You can sign up for his mailing list at <https://tinyletter.com/cncoulter>, and visit his website at <http://www.cncoulter.com>.
 
 ## Longer, first-person bio
 
 I grew up in Southern California and went to college at Santa Clara University, where I studied Theatre Arts and Women's & Gender Studies. After college, I did a year of service with the Jesuit Volunteer Corps in Baltimore, MD. I currently live and work in a community of adults with and without developmental disabilities in the Kansas City metro area.
 
-I write fiction, usually shortish fiction, usually science fiction or fantasy. I also write and perform poetry, usually either performance/slam poetry or SF poetry. I'm an amateur GNU/Linux systems administrator and a big fan of [Free Software](https://www.fsf.org/about/what-is-free-software). I'm also a sinophile who studies Mandarin Chinese.
+I write fiction, usually shortish fiction, usually science fiction or fantasy. I also write and perform poetry, usually either performance/slam poetry or SF poetry.
+
+I'm a member of the Science Fiction and Fantasy Poetry Association ([SFPA](http://sfpoetry.com/)), and you should [join](http://sfpoetry.com/join.html) too. I'm also an amateur GNU/Linux systems administrator, a big fan of [Free Software](https://www.fsf.org/about/what-is-free-software), and a sinophile who studies Mandarin Chinese.
 
 I love science fiction and intentional communities. I like cooking, religion, podcasts, critical theory, and hiking. I think copyright law is fascinating.
-
-I'm a member of the Science Fiction and Fantasy Poetry Association ([SFPA](http://sfpoetry.com/)), and you should [join](http://sfpoetry.com/join.html) too.
 
 ## Mailing List
 
@@ -33,5 +33,3 @@ I'm a member of the Science Fiction and Fantasy Poetry Association ([SFPA](http:
 {% include svg-icons.html %}
 </div>
 </div>
-
-

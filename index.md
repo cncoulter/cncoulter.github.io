@@ -9,6 +9,6 @@ Hello!
 
 I write speculative fiction and [poetry]({{ site.baseurl }}/poetry/).
 
-Check out [my bio]({{ site.baseurl }}/about/) to learn more about me.
+I like to [blog]({{ site.baseurl }}/blog/), usually to share my thoughts on what I've been reading.
 
-Sometimes I [blog]({{ site.baseurl }}/blog/).
+Check out [my bio]({{ site.baseurl }}/about/) to learn more about me.
