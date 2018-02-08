@@ -7,7 +7,7 @@ published: true
 
 ## Short, third-person bio
 
-Cameron N. Coulter writes speculative fiction and poetry. He also likes to perform poetry, design ebooks, and tap dance. He's lived in California, Beijing, Baltimore, and Kansas. His poetry has appeared in *Eternal Haunted Summer* and *Eye to the Telescope*. You can sign up for his mailing list at <https://tinyletter.com/cncoulter>, and visit his website at <http://www.cncoulter.com>.
+Cameron N. Coulter writes speculative fiction and poetry. His poetry has appeared in *Eternal Haunted Summer* and *Eye to the Telescope*. You can sign up for his mailing list at <https://tinyletter.com/cncoulter>, visit his website at <http://www.cncoulter.com>, and find him on Twitter at <a href="https://twitter.com/camncoulter">@camncoulter</a>.
 
 ## Longer, first-person bio
 
