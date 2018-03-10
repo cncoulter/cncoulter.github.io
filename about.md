@@ -7,7 +7,7 @@ published: true
 
 ## Short, third-person bio
 
-Cameron N. Coulter writes speculative fiction and poetry. His poetry has appeared in *Eternal Haunted Summer* and *Eye to the Telescope*. You can sign up for his mailing list at <https://tinyletter.com/cncoulter>, visit his website at <http://www.cncoulter.com>, and find him on Twitter at <a href="https://twitter.com/camncoulter">@camncoulter</a>.
+Cameron N. Coulter writes speculative fiction and poetry. His poetry has appeared in *Eternal Haunted Summer* and *Eye to the Telescope*. He also reviews short fiction for [Skiffy and Fanty](https://skiffyandfanty.com/author/cameronncoulter/). When not reading or writing, he likes to play around with GNU/Linux, study Mandarin Chinese, think about critical theory and copyright law, and go hiking. Cameron can be found on his [website](http://www.cncoulter.com) or on [Twitter](https://twitter.com/camncoulter). He also has a [mailing list](https://tinyletter.com/cncoulter).
 
 ## Longer, first-person bio
 

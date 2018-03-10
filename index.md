@@ -5,10 +5,12 @@ permalink: /
 published: true
 ---
 
-Hello!
+<p style="text-align:center">Hello!</p>
 
-I write speculative fiction and [poetry]({{ site.baseurl }}/poetry/).
+<p style="text-align:center">I write speculative fiction and <a href="{{ site.baseurl }}/poetry/">poetry</a>.</p>
 
-I like to [blog]({{ site.baseurl }}/blog/), usually to share my thoughts on what I've been reading.
+<p style="text-align:center">I <a href="{{ site.baseurl }}/nonfiction/">review</a> short fiction for Skiffy and Fanty.</p>
 
-Check out [my bio]({{ site.baseurl }}/about/) to learn more about me.
+<p style="text-align:center">I like to <a href="{{ site.baseurl }}/blog/">blog</a>, usually to share my thoughts on what I've been reading.</p>
+
+<p style="text-align:center">Check out <a href="{{ site.baseurl }}/about/">my bio</a> to learn more about me.</p>
