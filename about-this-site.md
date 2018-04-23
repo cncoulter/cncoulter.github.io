@@ -5,10 +5,10 @@ permalink: /about-this-site/
 published: true
 ---
 
-[cncoulter.com]({{ site.baseurl }}/) is:
+[cncoulter.com](https://github.com/cncoulter/cncoulter.github.io) is:
 
 * Powered by [Jekyll](https://jekyllrb.com/) with the theme [Jekyll Now](http://www.jekyllnow.com/)
-* Hosted on [GitHub](https://github.com/cncoulter/cncoulter.github.io) thanks to [GitHub Pages](https://pages.github.com/)
+* Hosted on [GitHub](https://github.com/) thanks to [GitHub Pages](https://pages.github.com/)
 
 The website code is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). By all means, [fork](https://guides.github.com/activities/forking/) this project to set up your own website!
 
