@@ -11,9 +11,9 @@ Cameron N. Coulter writes speculative fiction and poetry. His poetry has appeare
 
 ## Longer, first-person bio
 
-I grew up in Southern California and went to college at Santa Clara University, where I studied Theatre Arts and Women's & Gender Studies. After college, I did a year of service with the Jesuit Volunteer Corps in Baltimore, MD. I currently live and work in a community of adults with and without developmental disabilities in the Kansas City metro area.
+I grew up in Southern California and went to college at Santa Clara University, where I studied Theatre Arts and Women's & Gender Studies. After college, I did a year of service with the Jesuit Volunteer Corps in Baltimore, MD, and I then spent two years living and working in a community of adults with and without developmental disabilities in the Kansas City metro area.
 
-I write fiction, usually shortish fiction, usually science fiction or fantasy. I also write and perform poetry, usually either performance/slam poetry or SF poetry.
+I write fiction, usually shortish fiction, usually science fiction or fantasy. I write and perform poetry, usually either performance/slam poetry or SF poetry. I also write nonfiction, usually either short fiction reviews or academic nonfiction relating to gender, performance, or social justice.
 
 I'm a member of the Science Fiction and Fantasy Poetry Association ([SFPA](http://sfpoetry.com/)), and you should [join](http://sfpoetry.com/join.html) too. I'm also an amateur GNU/Linux systems administrator, a big fan of [Free Software](https://www.fsf.org/about/what-is-free-software), and a sinophile who studies Mandarin Chinese.
 
