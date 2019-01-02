@@ -3,7 +3,7 @@ layout: post
 title: "Discipline and Punish by Michel Foucault"
 permalink:
 published: true
-date: 2018-12-31 09:00 +0800
+date: 2018-12-31 09:00
 category:
 tag:
 - reading

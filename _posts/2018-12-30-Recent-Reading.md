@@ -3,7 +3,7 @@ layout: post
 title: "Recent Reading: 30 December 2018"
 permalink:
 published: true
-date: 2018-12-30 10:00 +0800
+date: 2018-12-30 10:00
 category:
 tag:
 - reading
