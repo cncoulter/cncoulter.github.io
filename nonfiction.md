@@ -8,7 +8,7 @@ published: true
 ## 2019
 
 * Short Fiction Review Column for [*Skiffy and Fanty*](https://skiffyandfanty.com/author/cameronncoulter/)
-    * "[Month of Joy: Gender Diverse Pronouns](https://skiffyandfanty.com/blogposts/blogseries/monthofjoy/joy29coulter/)," posted on 14 January 2019
+    * "[Month of Joy: Gender Diverse Pronouns](https://skiffyandfanty.com/blogposts/blogseries/monthofjoy/joy29coulter/)," posted on 14 January 2019 ([related Twitter thread](https://twitter.com/camncoulter/status/1085422424898838528))
 
 ## 2018
 
