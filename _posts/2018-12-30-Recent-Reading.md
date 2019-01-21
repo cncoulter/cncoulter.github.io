@@ -45,7 +45,7 @@ I was a little less impressed with the ending, but I think that has less to do w
 
 ### *Leviathan Wakes* and *Babylon's Ashes* by James S.A. Corey
 
-Over the summer, I got to reread *Leviathan Wakes* and read for the first time *Babylon's Ashes*, the first and sixth books in *The Expanse* series by James S.A. Corey. *I had so much fun!* :D Honestly, this series is [the most fun I've ever had reading]({{ site.baseurl }}{% post_url 2017-12-19-Reading %}). It's filled with excellent scifi action, character conflict, and political drama. The prose is sharp, accessible, and immersive, and the worldbuilding and themes are interesting and engaging.
+Over the summer, I got to reread *Leviathan Wakes* and read for the first time *Babylon's Ashes*, the first and sixth books in *The Expanse* series by James S.A. Corey. *I had so much fun!* :D Honestly, this series is [the most fun I've ever had reading]({{ site.baseurl }}{% post_url 2017-12-19-Reading %}#nemesis-games-by-james-sa-corey). It's filled with excellent scifi action, character conflict, and political drama. The prose is sharp, accessible, and immersive, and the worldbuilding and themes are interesting and engaging.
 
 Since in the last paragraph, I described the series as "filled with excellent scifi action," I feel compelled to pause and reflect on the role of violence in stories, because I think too often in scifi in particular, we tend to glorify (or at least mindlessly enjoy) violence.
 
