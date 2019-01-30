@@ -54,8 +54,12 @@ If you're interested in copyright law or the public domain but you aren't ready 
 
 In fact, I love Roswitha so much that I've even designed a epub of *The Plays of Roswitha*. Since the text is now officially in the public domain, I can now share it with you! [Here's a link to the ebook](/files/The Plays of Roswitha - Roswitha of Gandersheim.epub), and here's the front-matter that I wrote for the ebook:
 
-> Roswitha, also known as Hrotsvitha of Gandersheim, was a tenth-century German canoness, dramatist, and poet. She was inspired by the Roman comic playwright Terence, who wrote six farces filled with disguises, misunderstandings, and pagan debauchery. Upset by Terence’s immoral subject matter but also inspired by his well-crafted plays, Roswitha sought to “Christianize” his work by writing six plays of her own.
->
-> Of her six dramas, two are concerned with the conversation of nonbelievers (*Gallicanus* and *Callimachus*), two are concerned with the repentance of sinners (*Abraham* and *Paphnutius*), and two are concerned with the martyrdom of virgins (*Dulcitus* and *Sapientia*).
->
-> This edition, originally published in 1923, includes an introduction by Cardinal Francis Aidan Gasquet (an English Benedictine monk and scholar), a critical preface by the translator (Christopher St. John), and prefaces written by Roswitha herself.
+<blockquote>
+
+<p>Roswitha, also known as Hrotsvitha of Gandersheim, was a tenth-century German canoness, dramatist, and poet. She was inspired by the Roman comic playwright Terence, who wrote six farces filled with disguises, misunderstandings, and pagan debauchery. Upset by Terence’s immoral subject matter but also inspired by his well-crafted plays, Roswitha sought to “Christianize” his work by writing six plays of her own.</p>
+
+<p>Of her six dramas, two are concerned with the conversation of nonbelievers (<em>Gallicanus</em> and <em>Callimachus</em>), two are concerned with the repentance of sinners (<em>Abraham</em> and <em>Paphnutius</em>), and two are concerned with the martyrdom of virgins (<em>Dulcitus</em> and <em>Sapientia</em>).</p>
+
+<p>This edition, originally published in 1923, includes an introduction by Cardinal Francis Aidan Gasquet (an English Benedictine monk and scholar), a critical preface by the translator (Christopher St. John), and prefaces written by Roswitha herself.</p>
+
+</blockquote>

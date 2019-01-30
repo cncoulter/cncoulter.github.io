@@ -3,6 +3,14 @@
 
 @import 'bootstrap/bootstrap';
 
+blockquote {
+	background: #f6f6f6;
+    margin: 0 0 20px;
+	padding: 20px 20px 10px;
+    border-left: 4px solid #3D9970;
+    font-size: 100%;
+}
+
 .footer-link {
     color: rgba(255, 255, 255, 0.5);
 }
