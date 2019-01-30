@@ -1,21 +1,54 @@
 ---
-layout: default
+layout: page
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<!-- Page Content-->
+<article>
+    <div class="container">
 
-  <div class="entry">
-    {{ content }}
-  </div>
+        <div class="row justify-content-center">
 
-<hr/>
+            <!-- Post Content Column -->
+            <div class="col-lg-8">
 
-<p class="date">Posted on {{ page.date | date: "%e %B %Y" }}.</p>
+                <!-- Title -->
+                <h2 class="mt-4">{{ page.title }}</h2>
 
-{% if page.tags != empty %}
-	<p class="date">Tags: {% for tag in page.tags %}<a href="{{site.url}}{{site.baseurl}}/tags/#{{tag}}-ref">{{tag}}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</p>
-{% endif %}
+                <!-- Author -->
+                <p class="lead">
+                    by Cameron N. Coulter
+                </p>
 
-  {% include disqus.html %}
+                <hr>
+
+                <!-- Date/Time -->
+                <p class="text-muted"><i class="far fa-calendar-alt">
+                    </i> Posted on {{ page.date | date: "%B %e, %Y" }}
+                </p>
+
+                <hr>
+
+                <!-- Post Content -->
+                <div class="blogpost">{{ content }}</div>
+
+                <hr>
+
+                <!-- Post Footer: Share on Twitter -->
+                <p class="text-center"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.footer-links.twitter }}" rel="nofollow noopener noreferrer" target="_blank" title="Share on Twitter" class="btn btn-outline-primary btn-sm"><i class="fab fa-twitter"></i> Share on Twitter</a>
+                </p>
+
+                <!-- Post Footer: Tags -->
+                {% if page.tags != empty %}
+                <p class="text-center">
+                    {% for tag in page.tags %}
+                    <a href="{{ site.baseurl }}/blog/tags#{{ tag }}-ref" class="badge badge-tag mx-2"><i class="fas fa-tag"></i> {{ tag }}</a>
+                    {% endfor %}
+                </p>
+                {% endif %}
+
+            </div>
+
+        </div>
+
+    </div>
 </article>

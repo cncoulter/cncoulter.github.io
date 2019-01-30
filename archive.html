@@ -1,23 +1,35 @@
 ---
 layout: page
-title: Archive
+title: Blog Archive
 permalink: /blog/archive/
 published: true
 ---
 
-<table style="margin-left: auto; margin-right: auto">
-	{% for post in site.posts %}
-	<tr>
-				<td style="text-align: right; padding: 0.5em">{{ post.date | date: "%e %B %Y" }}</td>
-				<td style="text-align: left; padding: 0.5em"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
-	</tr>
-	{% endfor %}
-</table>
+<!-- Page Content-->
 
-<p style="text-align: center"><a href="{{ site.baseurl }}/tags/">tag index</a></p>
+<div class="container">
 
-{% if site.footer-links.rss %}
-	<div class="icons">
-		<p><a href="{{ site.baseurl }}/feed.xml"><i class="svg-icon rss"></i></a></p>
-	</div>
-{% endif %}
+    <div class="row justify-content-center">
+
+        <!-- Main Column -->
+        <div class="col-lg-8">
+
+            <h1 class="my-4">{{ page.title }}</h1>
+
+            <table class="mx-auto">
+                {% for post in site.posts %}
+                <tr>
+                    <td style="text-align: right; padding: 0.5em">{{ post.date | date: "%e %B %Y" }}</td>
+                    <td style="text-align: left; padding: 0.5em"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+                </tr>
+                {% endfor %}
+            </table>
+
+            <p class="my-4 text-center"><a href="{{ site.baseurl }}/blog/tags/" class="btn btn-outline-primary"><i class="fas fa-tags"></i> Tag Index</a></p>
+
+            <p class="my-4 text-center"><a href="{{ site.baseurl }}/feed.xml" class="card-link btn btn-outline-primary"><i class="fas fa-rss"></i> RSS Feed</a></p>
+
+        </div>
+
+    </div>
+</div>
