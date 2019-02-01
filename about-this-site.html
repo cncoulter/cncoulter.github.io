@@ -3,6 +3,11 @@ layout: page
 title: About This Site
 permalink: /about-this-site/
 published: true
+featured-img: /img/pankaj-patel-561360-unsplash.jpg
+alt-text: "Photo of a programmer's computer screen"
+caption: "Photo by Pankaj Patel on Unsplash"
+attribution:
+- Photo by <a href="https://unsplash.com/photos/u2Ru4QBXA5Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pankaj Patel</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 <!-- Page Content-->
@@ -14,6 +19,11 @@ published: true
         <div class="col-lg-8">
 
             <h1 class="my-4">{{ page.title }}</h1>
+
+            <!-- Featured Image -->
+            {% if page.featured-img %}
+                <img src="{{ page.featured-img }}" class="img-fluid mb-3" alt="{{ page.alt-text }}" title="{{ page.caption }}"/>
+            {% endif %}
 
             <p><a href="https://github.com/cncoulter/cncoulter.github.io">cncoulter.com</a> is:</a>
 
@@ -27,6 +37,11 @@ published: true
 
                 <p><a href="{{ site.baseurl }}/blog">Blog posts</a> and the <a href="{{ site.baseurl }}/about">about page</a> are licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
                     (CC BY-SA 4.0). All rights are reserved for all other content, unless otherwise noted.</p>
+
+                <!-- Image Attribution -->
+                {% if page.attribution %}
+                    <p class="text-muted font-weight-light small">{{ page.attribution }}</p>
+                {% endif %}
 
         </div>
     </div>

@@ -7,6 +7,11 @@ date: 2018-12-31 09:00
 category:
 tag:
 - reading
+featured-img: /img/Coulter-Discipline-and-Punish.jpg
+alt-text: "Photo of Discipline and Punish"
+caption: "Photo by Cameron N. Coulter"
+attribution:
+- Photo by Cameron N. Coulter
 ---
 
 <p style="color: gray;"><em>Discipline and Punish: The Birth of the Prison</em> by Michel Foucault. Translated by Alan Sheridan. Vintage Books, 1995. Originally published in France in 1975.</p>

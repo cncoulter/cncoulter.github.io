@@ -7,6 +7,11 @@ date: 2018-06-01 10:05 -0500
 category:
 tag:
 - thoughts
+featured-img: /img/nicole-honeywill-730102-unsplash.jpg
+alt-text: "Photo of an open book with a pair of glasses on top"
+caption: "Photo by Nicole Honeywill on Unsplash"
+attribution:
+- Photo by <a href="https://unsplash.com/photos/c1YrcFYW66s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicole Honeywill</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 [The Skiffy & Fanty Show](https://skiffyandfanty.com/) is a science fiction and fantasy podcast network, mostly focused on prose fiction but with some regular coverage of movies as well. The show also runs a blog filled with reviews of recent genre publications. Skiffy & Fanty is a great place to find interesting interviews, discussions, and reviews.

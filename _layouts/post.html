@@ -28,8 +28,18 @@ layout: page
 
                 <hr>
 
+                <!-- Featured Image -->
+                {% if page.featured-img %}
+                    <img src="{{ page.featured-img }}" class="img-fluid mx-auto d-block mb-3" alt="{{ page.alt-text }}" title="{{ page.caption }}"/>
+                {% endif %}
+
                 <!-- Post Content -->
                 <div class="blogpost">{{ content }}</div>
+
+                <!-- Image Attribution -->
+                {% if page.attribution %}
+                    <p class="text-muted font-weight-light small">{{ page.attribution }}</p>
+                {% endif %}
 
                 <hr>
 

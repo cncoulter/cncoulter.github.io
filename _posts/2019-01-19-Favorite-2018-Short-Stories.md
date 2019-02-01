@@ -7,6 +7,11 @@ date: 2019-01-19 19:00
 category:
 tag:
 - reading
+featured-img: /img/nicole-honeywill-730102-unsplash.jpg
+alt-text: "Photo of an open book with a pair of glasses on top"
+caption: "Photo by Nicole Honeywill on Unsplash"
+attribution:
+- Photo by <a href="https://unsplash.com/photos/c1YrcFYW66s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicole Honeywill</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 Last year, I wrote a [short fiction review column](https://skiffyandfanty.com/author/cameronncoulter/) for *Skiffy and Fanty*. By my count, I read almost 300 pieces of short fiction originally published in 2018. There's also an uncounted number of short stories that I started reading but didn't finish. I also read one anthology and one collection of short stories that were published before 2018, both of which [were awesome]({{ site.baseurl }}{% post_url 2018-12-30-Recent-Reading %}#transcendent-the-years-best-transgender-speculative-fiction-edited-by-km-szpara).

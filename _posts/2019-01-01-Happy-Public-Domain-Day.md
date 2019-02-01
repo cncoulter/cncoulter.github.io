@@ -9,7 +9,12 @@ tag:
 - thoughts
 - cool stuff
 - ebook design
+featured-img: /img/jamesboyle-publicdomaincover.jpg
+alt-text: "Cover of The Public Domain by James Boyle"
+caption: "The Public Domain by James Boyle"
 ---
+
+
 
 I confess, New Years has never been one of my favorite holidays. I don't care for most of the typical New Years traditions, and in fact, I usually try to get to bed before midnight.
 
@@ -48,7 +53,7 @@ If you're interested in copyright law or the public domain but you aren't ready 
 
 ### The Plays of Roswitha
 
-<a href="/files/The Plays of Roswitha - Roswitha of Gandersheim.epub"><img src="/images/Roswitha-cover.jpg" alt="Cover Image: The Plays of Roswitha" style="margin-left: auto; margin-right: auto; display: block; border: 1px outset black;" width="300"/></a>
+<a href="/files/The Plays of Roswitha - Roswitha of Gandersheim.epub"><img src="/img/Roswitha-cover.jpg" alt="Cover Image: The Plays of Roswitha" style="margin-left: auto; margin-right: auto; display: block; border: 1px outset black;" width="300"/></a>
 
 [Roswitha](https://en.wikipedia.org/wiki/Hrotsvitha) is awesome. She was a 10th-century German canoness, dramatist, and poet, and she was one of the first people to write drama since antiquity. Among her other accomplishments, she wrote six plays in which she attempted to "Christianize" the work of the Roman comic playwright Terence. I first came across her work in college, and I've read and reread her a few times since. I reread her plays last year, and shared my thoughts about them [in this blog post]({{ site.baseurl }}{% post_url 2018-02-08-Reading %}#the-plays-of-roswitha-translated-by-christopher-st-john), so check that out for a more thoughtful reflection on her work.
 

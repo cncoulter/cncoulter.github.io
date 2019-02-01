@@ -120,6 +120,11 @@ published: true
                     {% endif %}
                 </p>
 
+                <!-- Featured Image -->
+                {% if post.featured-img %}
+                    <img src="{{ post.featured-img }}" class="img-fluid  mx-auto d-block mb-3" alt="{{ post.alt-text }}" title="{{ post.caption }}"/>
+                {% endif %}
+
                 <!-- Post: Content -->
                 <div class="blogpost">
                     {{ post.content }}
