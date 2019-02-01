@@ -7,6 +7,8 @@ date: 2019-01-19 19:00
 category:
 tag:
 - reading
+description:
+- Here are my favorite pieces of short fiction that were originally published in 2018.
 featured-img: /img/nicole-honeywill-730102-unsplash.jpg
 alt-text: "Photo of an open book with a pair of glasses on top"
 caption: "Photo by Nicole Honeywill on Unsplash"
