@@ -12,6 +12,8 @@ tags:
 - copyright
 - public domain
 - Hrotsvitha of Gandersheim
+description:
+- "I confess, New Years has never been one of my favorite holidays. I don't care for most of the typical New Years traditions, and in fact, I usually try to get to bed before midnight. This year, however, we have something to celebrate that's genuine, meaningful, and near to my heart: for the first time in over twenty years, we have a plethora of new work entering the public domain!"
 featured-img: /img/jamesboyle-publicdomaincover.jpg
 alt-text: "Cover of The Public Domain by James Boyle"
 caption: "The Public Domain by James Boyle"

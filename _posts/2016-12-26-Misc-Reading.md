@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Miscellaneous Reading: 12/26/2016"
+title: "Recent Reading: December 2016"
 permalink:
 published: true
 date: 2016-12-26 20:41

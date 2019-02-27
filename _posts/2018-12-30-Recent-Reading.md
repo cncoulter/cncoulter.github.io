@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recent Reading: 30 December 2018"
+title: "Recent Reading: December 2018"
 permalink:
 published: true
 date: 2018-12-30 10:00
@@ -27,6 +27,8 @@ tags:
 - Geonn Cannon
 - K.M. Szpara
 - Carrie Vaughn
+description:
+- Here's what I've been reading.
 featured-img: /img/Coulter-Kim-Reaper-Moonstruck.jpg
 alt-text: "Photo of Kim Reaper and Moonstruck"
 caption: "Photo by Cameron N. Coulter"
@@ -74,7 +76,7 @@ Over the summer, I got to reread *Leviathan Wakes* and read for the first time *
 
 Since in the last paragraph, I described the series as "filled with excellent scifi action," I feel compelled to pause and reflect on the role of violence in stories, because I think too often in scifi in particular, we tend to glorify (or at least mindlessly enjoy) violence.
 
-In general, I have mixed feelings on this subject. On one hand, the stories we tell these days are so violent that it can be a little hard for us to tell stories about *non-violent* conflict. I don't like this, and I wish we had more stories about good people trying to sort out their differences or overcome adversity through non-violent means. (One of the most impressive and mind-bending aspects of Le Guin's [*Earthsea* books]({{ site.baseurl }}{% post_url 2017-08-30-Reading %}) is how completely they eschew violent conflict.) That said, humans are all too often an all too violent species, so it does makes sense to include violence in the stories we tell about ourselves. *The Expanse* series is filled with violence, sometimes violence at a mind-bogglingly large scale. The series doesn't glorify violence, and in fact it often analyzes the tragic and toxic effects of it and features protagonists who are trying to stop it. Moreover, I'd argue that the series does include its fair share of non-violent conflict as well. So when I describe *The Expanse* as "filled with excellent scifi action," I guess what I mean is:
+In general, I have mixed feelings on this subject. On one hand, the stories we tell these days are so violent that it can be a little hard for us to tell stories about *non-violent* conflict. I don't like this, and I wish we had more stories about good people trying to sort out their differences or overcome adversity through non-violent means. (One of the most impressive and mind-bending aspects of Le Guin's [*Earthsea* books]({{ site.baseurl }}{% post_url 2017-08-30-Reading %}#the-farthest-shore-by-ursula-k-le-guin) is how completely they eschew violent conflict.) That said, humans are all too often an all too violent species, so it does makes sense to include violence in the stories we tell about ourselves. *The Expanse* series is filled with violence, sometimes violence at a mind-bogglingly large scale. The series doesn't glorify violence, and in fact it often analyzes the tragic and toxic effects of it and features protagonists who are trying to stop it. Moreover, I'd argue that the series does include its fair share of non-violent conflict as well. So when I describe *The Expanse* as "filled with excellent scifi action," I guess what I mean is:
 
 * the series treats violence seriously and doesn't glorify it
 * the series uses violence to more powerfully engage its themes
@@ -87,7 +89,7 @@ If you like SF and if you like reading things which are, you know, *fun*, you go
 
 ### *I Am Providence* by Nick Mamatas
 
-Often, I find myself returning to this idea: [our expectations]({{ site.baseurl }}{% post_url 2017-04-20-The-Left-Hand-of-Darkness %}) [greatly affect]({{ site.baseurl }}{% post_url 2018-07-16-Reading %}) our experience of reading a book, sometimes more than anything else.
+Often, I find myself returning to this idea: [our expectations]({{ site.baseurl }}{% post_url 2017-04-20-The-Left-Hand-of-Darkness %}) [greatly affect]({{ site.baseurl }}{% post_url 2018-07-16-Reading %}#a-series-of-unfortunate-events-by-lemony-snicket) our experience of reading a book, sometimes more than anything else.
 
 For whatever reason, my expectations were somewhat off base for this book. *I Am Providence* is about an H.P. Lovecraft convention. The book examines the politics of exclusion and racism within the Lovecraft community, and it begins with a rather grotesque murder. I had expected there would be more otherworldly elements to this book. There were some. A recurring narrator POV was the dead man, his ghost (or something like it) tethered to his body in the morgue. Beyond that element, however, much of this book felt to me like a relatively straightforward murder mystery.
 
@@ -113,7 +115,7 @@ Of course I loved this. Look at the title. Look at [who edited it](https://skiff
 
 ### *Amaryllis and Other Stories* by Carrie Vaughn
 
-Carrie Vaughn is such a good writer. I wish I could write prose like her. Her stories are lush, detailed, and immersive but also accessible, character-centered, and skillfully plotted. Before reading *Amaryllis and Other Stories*, I had read a lot of her short fiction published online and also her novel [*Bannerless*]({{ site.baseurl }}{% post_url 2017-11-01-Reading %}), which I loved. It was one of my favorite novels of the year, and I still find myself thinking about it fairly often.
+Carrie Vaughn is such a good writer. I wish I could write prose like her. Her stories are lush, detailed, and immersive but also accessible, character-centered, and skillfully plotted. Before reading *Amaryllis and Other Stories*, I had read a lot of her short fiction published online and also her novel [*Bannerless*]({{ site.baseurl }}{% post_url 2017-11-01-Reading %}#bannerless-by-carrie-vaughn), which I loved. It was one of my favorite novels of the year, and I still find myself thinking about it fairly often.
 
 So I figured it was time that I check out her collection of short fiction. It was fabulous, as expected.
 

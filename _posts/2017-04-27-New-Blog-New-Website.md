@@ -12,6 +12,13 @@ tags:
 - WordPress
 - Jekyll
 - Github
+description:
+- For almost a year now, I have been blogging at <https://cameronncoulter.wordpress.com/>, blogging largely about what I've been reading. Now, however, I've migrated my blog to <http://www.cncoulter.com>.
+featured-img: /img/pankaj-patel-561360-unsplash.jpg
+alt-text: "Photo of a programmer's computer screen"
+caption: "Photo by Pankaj Patel on Unsplash"
+attribution:
+- Photo by <a href="https://unsplash.com/photos/u2Ru4QBXA5Q?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pankaj Patel</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 For almost a year now, I have been blogging at <https://cameronncoulter.wordpress.com/>, blogging largely about what I've been reading. Now, however, I've migrated my blog to <http://www.cncoulter.com>.

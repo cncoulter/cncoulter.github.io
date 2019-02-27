@@ -10,6 +10,8 @@ tags:
 - short fiction
 - reviewing
 - Skiffy and Fanty
+description:
+- The Skiffy and Fanty Show is a science fiction and fantasy podcast network, mostly focused on prose fiction but with some regular coverage of movies as well. The show also runs a blog filled with reviews of recent genre publications. Skiffy & Fanty is a great place to find interesting interviews, discussions, and reviews. And now, I've joined the team! I'm writing a monthly short fiction review column for the Skiffy and Fanty blog.
 featured-img: /img/nicole-honeywill-730102-unsplash.jpg
 alt-text: "Photo of an open book with a pair of glasses on top"
 caption: "Photo by Nicole Honeywill on Unsplash"

@@ -11,6 +11,8 @@ tags:
 - "nonfiction: political"
 - translated
 - Michel Foucault
+description:
+- We had discussed this book in a few of my college classes, so I had some context for understanding it, but it's still admittedly a challenging text to parse, so after I read it, I listened to the recent Philosophize This! podcasts about Foucault and his work. I'm very glad I did. Those podcasts helped a lot with my understanding and appreciation of the text.
 featured-img: /img/Coulter-Discipline-and-Punish.jpg
 alt-text: "Photo of Discipline and Punish"
 caption: "Photo by Cameron N. Coulter"
