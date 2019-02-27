@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Their Eyes Were Watching God by Zora Neale Hurston"
-permalink: 
+permalink:
 published: true
 date: 2016-06-05 13:43
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Zora Neale Hurston
 ---
 
-***Their Eyes Were Watching God* by Zora Neale Hurston. New York: Harper Perennial, 2006. Originally published in 1937.**
+<p style="color: gray;">New York: Harper Perennial, 2006. Originally published in 1937.</p>
 
 The sophomores have been reading *Their Eyes Were Watching God* for class, and by “reading,” I really mean “listening.” Someone uploaded a fantastic audiobook version of this text to Youtube, and the sophomores have been listening to it and reading along.
 

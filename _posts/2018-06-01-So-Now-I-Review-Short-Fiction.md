@@ -4,9 +4,12 @@ title: "So Now I Review Short Fiction"
 permalink:
 published: true
 date: 2018-06-01 10:05 -0500
-category:
-tag:
+categories:
 - thoughts
+tags:
+- short fiction
+- reviewing
+- Skiffy and Fanty
 featured-img: /img/nicole-honeywill-730102-unsplash.jpg
 alt-text: "Photo of an open book with a pair of glasses on top"
 caption: "Photo by Nicole Honeywill on Unsplash"

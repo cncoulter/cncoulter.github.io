@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Children of God by Mary Doria Russell"
-permalink: 
+permalink:
 published: true
 date: 2016-09-28 18:31
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Mary Doria Russell
 ---
 
-***Children of God* by Mary Doria Russell. New York: Fawcett Books, 1999.**
+<p style="color: gray;">New York: Fawcett Books, 1999.</p>
 
 Mary Doria Russell wrote this awesome book called *The Sparrow*. It’s a tale of Jesuits, space-travel, and first contact with an alien world. I wholeheartedly recommend it. If you read and enjoy *The Sparrow*, chances are you’ll also enjoy its sequel, *Children of God*.
 

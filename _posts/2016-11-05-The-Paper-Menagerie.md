@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "The Paper Menagerie by Ken Liu"
-permalink: 
+title: "The Paper Menagerie and Other Stories by Ken Liu"
+permalink:
 published: true
 date: 2016-11-05 15:38
-category: 
-tag: 
+categories:
 - reading
+tags:
+- short fiction
+- collection
+- Ken Liu
 ---
 
-***The Paper Menagerie and Other Stories* by Ken Liu. Saga Press, 2016. <http://www.simonandschuster.com/books/The-Paper-Menagerie-and-Other-Stories/Ken-Liu/9781481424370>**
+<p style="color: gray;">Saga Press, 2016. <a href="http://www.simonandschuster.com/books/The-Paper-Menagerie-and-Other-Stories/Ken-Liu/9781481424370">http://www.simonandschuster.com/books/The-Paper-Menagerie-and-Other-Stories/Ken-Liu/9781481424370</a></p>
 
 All in all, a fantastic collection. I recommend to all without reservation.
 
@@ -23,4 +26,3 @@ Highlights:
 * The Paper Menagerie
 * All the Flavors
 * The Litigation Master and the Monkey King
-

@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "And Then There Were None by Agatha Christie"
-permalink: 
+permalink:
 published: true
 date: 2016-08-09 01:40
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Agatha Christie
 ---
 
-***And Then There Were None* by Agatha Christie. New York: Bantam Books, 1983. Originally published in 1939.**
+<p style="color: gray;">New York: Bantam Books, 1983. Originally published in 1939.</p>
 
 My JVC community read this book as part of our community book club. We were looking for a fun, page-turner “beach read,” and I must say this book certainly fit that bill.
 

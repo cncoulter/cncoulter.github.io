@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "The Cook Up: A Crack Rock Memoir by D. Watkins"
-permalink: 
+permalink:
 published: true
 date: 2016-08-04 21:32
-category: 
-tag: 
+categories:
 - reading
+tags:
+- "nonfiction: memoir"
+- "nonfiction: political"
+- D. Watkins
 ---
 
-***The Cook Up: A Crack Rock Memoir* by D. Watkins. New York: Grand Central Publishing, 2016.**
+<p style="color: gray;">New York: Grand Central Publishing, 2016.</p>
 
 D. Watkins grew up in East Baltimore amid drugs, addicts, dealers, and gun violence. After his dope-dealing brother died, he inherited enough cocaine and heroin to put together a crew and start dealing. *The Cook Up* tells his story of getting into—and eventually getting out of—the game.
 

@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "The Ballad of Black Tom by Victor LaValle"
-permalink: 
+permalink:
 published: true
 date: 2016-08-20 19:29
-category: 
-tag: reading
+categories:
+- reading
+tags:
+- Victor LaValle
 ---
 
-***The Ballad of Black Tom* by Victor Lavalle. Tor.com, 2016. <http://publishing.tor.com/theballadofblacktom-victorlavalle/9780765386618/>**
+<p style="color: gray;">Tor.com, 2016. <a href="http://publishing.tor.com/theballadofblacktom-victorlavalle/9780765386618/">http://publishing.tor.com/theballadofblacktom-victorlavalle/9780765386618/</a></p>
 
 Last year, I read “The Call of Cthulhu” by H.P. Lovecraft. I read it, and I understood all the buzz around Lovecraft. His style of cosmic horror was addicting. Horror as a genre typically doesn’t appeal to me because I’m not much for violence or gore, but Lovecraft’s style of horror resonated perfectly with me.
 

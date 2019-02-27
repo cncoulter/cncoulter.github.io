@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "New Blog, New Website"
-permalink: 
+permalink:
 published: true
 date: 2017-04-27 13:15
-category: 
-tag: 
+categories:
 - thoughts
+- web design
+tags:
+- blogging
+- WordPress
+- Jekyll
+- Github
 ---
 
 For almost a year now, I have been blogging at <https://cameronncoulter.wordpress.com/>, blogging largely about what I've been reading. Now, however, I've migrated my blog to <http://www.cncoulter.com>.

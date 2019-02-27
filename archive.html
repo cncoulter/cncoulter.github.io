@@ -16,6 +16,21 @@ published: true
 
             <h1 class="my-4">{{ page.title }}</h1>
 
+            <div class="table-responsive">
+            <table class="table table-sm table-hover">
+                <tbody>
+                    {% for post in site.posts %}
+                        <tr>
+                            <th scope="row" class="thead-light">{{ post.date | date: "%e %B %Y" }}</th>
+                            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            </div>
+
+            <h1 class="my-4">{{ page.title }}</h1>
+
             <table class="mx-auto">
                 {% for post in site.posts %}
                 <tr>

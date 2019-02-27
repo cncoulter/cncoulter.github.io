@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "The Catholic Church in China"
-permalink: 
+permalink:
 published: true
 date: 2017-10-10 08:30 -0500
-category: 
-tag: 
+categories:
 - cool stuff
+tags:
+- "nonfiction: China"
+- "nonfiction: religion"
 ---
 
 The good folks at *America Magazine* recently did a great feature on the Catholic Church in China. There's a [feature article](https://www.americamagazine.org/faith/2017/09/18/how-top-heavy-catholic-church-losing-ground-game-china) and a [documentary](https://www.americamagazine.org/china-doc). I recommend both.

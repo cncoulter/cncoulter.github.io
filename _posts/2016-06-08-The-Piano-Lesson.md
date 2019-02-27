@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "The Piano Lesson by August Wilson"
-permalink: 
+permalink:
 published: true
 date: 2016-06-08 20:45
-category: 
-tag: 
+categories:
 - reading
+tags:
+- drama
+- August Wilson
 ---
 
-***The Piano Lesson* by August Wilson. New York: Plume, 1990.**
+<p style="color: gray;">New York: Plume, 1990.</p>
 
 This play is awesome. I wish I had to read it back in my college Theatre History courses, and since I didn’t, I’m glad to have read it now.
 

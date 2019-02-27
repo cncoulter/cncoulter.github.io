@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Second Foundation by Isaac Asimov"
-permalink: 
+permalink:
 published: true
 date: 2016-11-28 00:21
-category: 
-tag: reading
+categories:
+- reading
+tags:
+- Isaac Asimov
 ---
 
-***Second Foundation* by Isaac Asimov. New York: Ballantine Books, 1983. Originally published by Del Rey in 1953.**
+<p style="color: gray;">New York: Ballantine Books, 1983. Originally published by Del Rey in 1953.</p>
 
 *Second Foundation* is (ironically) the third book in Asimov’s Foundation series, and it read a lot like the first two Foundation books. The first three books in the Foundation series–*Foundation*, *Foundation and Empire*, and *Second Foundation*–comprise a trilogy. The success of the original trilogy pushed Asimov to later write several more novels set in the universe.
 

@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "The Jesuit Guide to (Almost) Everything by James Martin"
-permalink: 
+title: "The Jesuit Guide to (Almost) Everything: A Spirituality for Real Life by James Martin, S.J."
+permalink:
 published: true
 date: 2016-06-07 20:20
-category: 
-tag: 
+categories:
 - reading
+tags:
+- "nonfiction: religion"
+- James Martin
 ---
 
-***The Jesuit Guide to (Almost) Everything: A Spirituality for Real Life* by James Martin, SJ. New York: HarperOne, 2012. Originally published in 2010.**
+<p style="color: gray;">New York: HarperOne, 2012. Originally published in 2010.</p>
 
 I’ve spent a lot of time in Jesuit environments the past several years: I went to a Jesuit university, and now I’m serving in the Jesuit Volunteer Corps at a Jesuit high school.
 

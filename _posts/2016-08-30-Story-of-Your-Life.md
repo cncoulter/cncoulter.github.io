@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Story of Your Life by Ted Chiang"
-permalink: 
+permalink:
 published: true
 date: 2016-08-30 16:57
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Ted Chiang
 ---
 
-***Story of Your Life* by Ted Chiang. Lightspeed Magazine Issue 31. December 2012. <http://www.lightspeedmagazine.com/>. Originally published in 1998.**
+<p style="color: gray;">Reprinted in <em><a href="http://www.lightspeedmagazine.com/">Lightspeed Magazine</a></em> Issue 31. December 2012. Originally published in 1998.</p>
 
 I heard about *Story of Your Life* by Ted Chiang because it has been adapted into a movie, *Arrival*, which will be released in November. The science fiction circles that I follow online all seemed to have good things to say about Chiang’s novella, so I figured I would give it a read.
 

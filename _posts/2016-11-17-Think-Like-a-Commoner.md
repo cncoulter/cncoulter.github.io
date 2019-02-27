@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Think Like a Commoner by David Bollier"
-permalink: 
+title: "Think Like a Commoner: A Short Introduction to the Life of the Commons by David Bollier"
+permalink:
 published: true
 date: 2016-11-17 18:36
-category: 
-tag: 
+categories:
 - reading
+tags:
+- "nonfiction: free culture, free software, and the commons"
+- David Bollier
 ---
 
-***Think Like a Commoner: A Short Introduction to the Life of the Commons* by David Bollier. New Society Publishers, 2014.**
+<p style="color: gray;">New Society Publishers, 2014.</p>
 
 In *Think Like a Commoner*, David Bollier provides a newbie-friendly introduction to “the commons.” If you’ve heard of the commons, chances are you’ve heard of the so-called “tragedy of the commons,” a term coined by Garrett Hardin in 1968. The thing is, Hardin doesn’t seem to have understood what a commons was. A commons consists of a a commonly-held resource, plus a community, plus a set of shared social norms and protocols regarding how to steward the resource.What Hardin thinks of as a commons is actually an unmanaged common-pool resource. I’m trying to say: if all you know about the commons is the “tragedy of the commons” (or, if you don’t even know about that), you need to read *Think Like a Commoner*. It’ll change the way you see the world in a small (but fundamental) way.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Trump Wrecked My Story"
-permalink: 
+permalink:
 published: true
 date: 2017-02-17 19:49
-category: 
-tag: thoughts
+categories:
+- thoughts
+tags:
+- writing
 ---
 
 This month, I am working on evaluating my short story collection *Lucy & Calvin’s Adventures in World Domination: Series 1*. I just finished rereading it, taking note of where I was awesome, where I was lazy, and where I didn’t make sense. I gotta say: overall, I’m pretty impressed with myself for writing this. There are some real moments of awesomeness. There are also, of course, some thorns in this story that need to be edited out. But here’s one thought I didn’t expect to have at this moment: Trump wrecked my story.

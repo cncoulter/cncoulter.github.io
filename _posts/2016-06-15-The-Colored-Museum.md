@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "The Colored Museum by George C. Wolfe"
-permalink: 
+permalink:
 published: true
 date: 2016-06-15 17:12
-category: 
-tag: 
+categories:
 - reading
+tags:
+- drama
+- George C. Wolfe
 ---
 
-***The Colored Museum* by George C. Wolfe. New York: Grove Press, 1988. The Colored Museum premiered in 1986.**
+<p style="color: gray;">New York: Grove Press, 1988. The Colored Museum premiered in 1986.</p>
 
 *The Colored Museum* is an 80’s satire about race. It’s composed of a series of vignettes which each uses stereotypes, archetypes, and hyperbole to make a play which pointedly, insightfully, and uncomfortably examines race in America. In 2016, the play’s cultural references feel quite dated, but there’s something indelibly enjoyable about how 80’s this play can feel.
 

@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "The Devil You Know by K.J. Parker"
-permalink: 
+permalink:
 published: true
 date: 2016-08-28 13:50
-category: 
-tag: 
+categories:
 - reading
+tags:
+- K.J. Parker
 ---
 
-***The Devil You Know* by K. J. Parker. New York: Tor.com, 2016. <http://publishing.tor.com/thedevilyouknow-kjparker/9780765384478/>**
+<p style="color: gray;">New York: Tor.com, 2016. <a href="http://publishing.tor.com/thedevilyouknow-kjparker/9780765384478/">http://publishing.tor.com/thedevilyouknow-kjparker/9780765384478/</a></p>
 
 I read this novella solely because I stumbled upon its marketing text and fell in love with its premise: the world’s greatest philosopher sells his soul to the devil, and the demon managing his case thinks he’s up to something. It raises the question: how do you out-trick the Father of Lies?
 

@@ -4,9 +4,13 @@ title: "Discipline and Punish by Michel Foucault"
 permalink:
 published: true
 date: 2018-12-31 09:00
-category:
-tag:
+categories:
 - reading
+tags:
+- "nonfiction: critical theory"
+- "nonfiction: political"
+- translated
+- Michel Foucault
 featured-img: /img/Coulter-Discipline-and-Punish.jpg
 alt-text: "Photo of Discipline and Punish"
 caption: "Photo by Cameron N. Coulter"

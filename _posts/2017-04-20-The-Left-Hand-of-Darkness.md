@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "The Left Hand of Darkness by Ursula K. Le Guin"
-permalink: 
+permalink:
 published: true
 date: 2017-04-20 14:42
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Ursula K. Le Guin
 ---
 
-***The Left Hand of Darkness* by Ursula K. Le Guin. Ace Books, 2000. Originally published in 1969.**
+<p style="color: gray;">Ace Books, 2000. Originally published in 1969.</p>
 
 This book had a lot of hype. It's hyped as one of Ursula K. Le Guin's best novels, and Le Guin is hyped as one of science fiction's best writers. I have read *The Dispossessed* by Ursula K. Le Guin, and that book blew my world, which furthered my internal hype and expectations for this book.
 

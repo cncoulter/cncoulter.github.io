@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "Cibola Burn by James S.A. Corey"
-permalink: 
+permalink:
 published: true
 date: 2016-08-20 19:39
-category: 
-tag: 
+categories:
 - reading
+tags:
+- space opera
+- James S.A. Corey
 ---
 
-***Cibola Burn* by James S. A. Corey. New York: Orbit, 2015. Originally published in June 2014.**
+<p style="color: gray;">New York: Orbit, 2015. Originally published in June 2014.</p>
 
 *Cibola Burn* is the fourth book in *The Expanse* series by James S. A. Corey, the pen name for Daniel Abraham and Ty Franck. After reading *Cibola Burn*, it’s official: *The Expanse* is the most fun reading I’ve ever done—including *Harry Potter*.
 

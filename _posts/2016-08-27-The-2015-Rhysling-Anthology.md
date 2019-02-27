@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "The 2015 Rhysling Anthology"
-permalink: 
+title: "The 2015 Rhysling Anthology: The Best Science Fiction, Fantasy, and Horror Poetry of 2014 edited by Rich Ristow"
+permalink:
 published: true
 date: 2016-08-27 03:05
-category: 
-tag: reading
+categories:
+- reading
+tags:
+- poetry
+- anthology
+- Rich Ristow
 ---
 
-***The 2015 Rhysling Anthology: The Best Science Fiction, Fantasy, and Horror Poetry of 2014* edited by Rich Ristow. Science Fiction Poetry Association, 2015.**
+<p style="color: gray;">Science Fiction Poetry Association, 2015.</p>
 
 I have a lot of random passions, hobbies, and interests. Arguably, the most niche interest I have is speculative poetry, poetry influenced by science fiction, fantasy, and horror themes.
 

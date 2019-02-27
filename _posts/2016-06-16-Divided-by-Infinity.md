@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Divided by Infinity by Robert Charles Wilson"
-permalink: 
+title: '“Divided by Infinity” by Robert Charles Wilson'
+permalink:
 published: true
 date: 2016-06-16 13:11
-category: 
-tag: 
+categories:
 - reading
+tags:
+- short fiction
+- Robert Charles Wilson
 ---
 
-**"[Divided by Infinity](http://www.tor.com/2010/08/05/divided-by-infinity/)" by Robert Charles Wilson. Tor.com, 2010. Originally published in *Starlight 2*, edited by Patrick Nielsen Hayden, Tor Books, 1998.**
+<p style="color: gray;">"<a href="http://www.tor.com/2010/08/05/divided-by-infinity/">Divided by Infinity</a>" by Robert Charles Wilson. Tor.com, 2010. Originally published in *Starlight 2*, edited by Patrick Nielsen Hayden, Tor Books, 1998.</p>
 
 Earlier this year, I read Robert Charles Wilson’s short story “[Utriusque Cosmi](http://clarkesworldmagazine.com/wilson_01_14_reprint/)“—and I loved it. It’s one of my favorite two short stories. (The other is “[The Crack](http://theairbornetoxicevent.com/crack.pdf)” by Mikel Jollett, the lead singer for *The Airborne Toxic Event*.) Wilson has a great talent for taking a large, crazy, mind-bending science fiction concept and weaving it around an intimate, personal story. He does this both in “Utrisque Cosmi” and “Divided by Infinity,” and they are both fantastic. (I definitely preferred “Utrisque Cosmi,” although both stories are fantastic.)
 

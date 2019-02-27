@@ -1,16 +1,19 @@
 ---
 layout: post
 title: "The Dream-Quest of Vellitt Boe by Kij Johnson"
-permalink: 
+permalink:
 published: true
 date: 2017-02-17 19:45
-category: 
-tag: reading
+categories:
+- reading
+tags:
+- short fiction
+- Kij Johnson
 ---
 
-***The Dream-Quest of Vellitt Boe* by Kij Johnson. Tor.com, 2016. <http://publishing.tor.com/thedreamquestofvellittboe-kijjohnson/9780765386519/>**
+<p style="color: gray;">Tor.com, 2016. <a href="http://publishing.tor.com/thedreamquestofvellittboe-kijjohnson/9780765386519/">http://publishing.tor.com/thedreamquestofvellittboe-kijjohnson/9780765386519/</a></p>
 
-I first encountered Kij Johnson when I was reading the March 2016 issue of *Clarkesworld Magazine*. I hadn’t heard of her before, and I read her story “Coyote Invents the Land of the Dead.” That story did not work for me. The language was too abstract for me, the story too ethereal. It had a cool vibe, but no staying power. After I read the story, I encountered some cognitive dissonance while reading the author blurb:
+I first encountered Kij Johnson when I was reading the March 2016 issue of *Clarkesworld Magazine*. I hadn’t heard of her before, and I read her story [“Coyote Invents the Land of the Dead.”](http://clarkesworldmagazine.com/johnson_03_16/) That story did not work for me. The language was too abstract for me, the story too ethereal. It had a cool vibe, but no staying power. After I read the story, I encountered some cognitive dissonance while reading the author blurb:
 
 > Kij Johnson is a three-time winner of the Nebula Award, and has also won the Hugo, World Fantasy, Sturgeon, and Crawford Awards.
 

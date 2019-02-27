@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Common Wealth by Jeffery Sachs"
-permalink: 
+title: "Common Wealth: Economics for a Crowded Planet by Jeffery Sachs"
+permalink:
 published: true
 date: 2016-10-12 14:20
-category: 
-tag: 
+categories:
 - reading
+tags:
+- "nonfiction: political"
+- Jeffery Sachs
 ---
-
-***Common Wealth: Economics for a Crowded Planet* by Jeffery Sachs. 2008.**
 
 Jeffery Sachs is an awesome guy; he’s the director of The Earth Institute at Columbia University and a special adviser to UN  Secretary-General Ban Ki-Moon. I first came upon his writings when I was doing Model UN in high school, and I found that Sachs could easily link clear explanations of global issues with actionable policy recommendations. *Common Wealth* certainly fits this description as well.
 

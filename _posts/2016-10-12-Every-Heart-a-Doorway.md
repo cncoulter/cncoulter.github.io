@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Every Heart a Doorway by Seanan McGuire"
-permalink: 
+permalink:
 published: true
 date: 2016-10-12 15:43
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Seanan McGuire
 ---
 
-***Every Heart a Doorway* by Seanan McGuire. Tor.com, 2016. <http://publishing.tor.com/everyheartadoorway-seananmcguire/9780765385505/>**
+<p style="color: gray;">Tor.com, 2016. <a href="http://publishing.tor.com/everyheartadoorway-seananmcguire/9780765385505/">http://publishing.tor.com/everyheartadoorway-seananmcguire/9780765385505/</a></p>
 
 The concept behind *Every Heart a Doorway* is brilliant: in all those portal fantasies we love so much, what happens after the hero returns home to our world? How do they adjust to life in our banal, bureaucratic universe? Fortunately for Nancy, who has just returned from the Hall of the Dead, her parents have transferred her to a boarding school filled entirely with kids like her, kids who have found doorways to magical lands and then got sent back to the “real world.”
 

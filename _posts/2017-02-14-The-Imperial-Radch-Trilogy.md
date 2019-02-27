@@ -1,14 +1,19 @@
 ---
 layout: post
 title: "The Imperial Radch Trilogy by Ann Leckie"
-permalink: 
+permalink:
 published: true
 date: 2017-02-14 02:36
-category: 
-tag: reading
+categories:
+- reading
+tags:
+- space opera
+- Ann Leckie
 ---
 
-***Ancillary Justice*, *Ancillary Sword*, *Ancillary Mercy* by Ann Leckie. Orbit Books.**
+### *Ancillary Justice*, *Ancillary Sword*, *Ancillary Mercy* by Ann Leckie
+
+<p style="color: gray;">Orbit Books.</p>
 
 Gosh, wow. I have a new core pillar in my sacred halls of science fiction. (The other core pillars belong to Frank Herbert, Ursula K. Le Guin, Iain M. Banks, and Kim Stanley Robinson. “Core pillars” are of course an arbitrary distinction which changes yearly.)
 

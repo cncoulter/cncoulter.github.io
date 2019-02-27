@@ -4,17 +4,20 @@ title: "Happy Public Domain Day!"
 permalink:
 published: true
 date: 2019-01-01 16:00
-category:
-tag:
+categories:
 - thoughts
 - cool stuff
 - ebook design
+tags:
+- copyright
+- public domain
+- Hrotsvitha of Gandersheim
 featured-img: /img/jamesboyle-publicdomaincover.jpg
 alt-text: "Cover of The Public Domain by James Boyle"
 caption: "The Public Domain by James Boyle"
+attribution:
+- Photo by Cameron N. Coulter
 ---
-
-
 
 I confess, New Years has never been one of my favorite holidays. I don't care for most of the typical New Years traditions, and in fact, I usually try to get to bed before midnight.
 

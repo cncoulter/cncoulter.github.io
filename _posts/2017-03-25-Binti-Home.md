@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Binti: Home by Nnedi Okorafor"
-permalink: 
+permalink:
 published: true
 date: 2017-03-25 22:11
-category: 
-tag:
+categories:
 - reading
+tags:
+- Nnedi Okorafor
 ---
 
-***Binti: Home* by Nnedi Okorafor. Tor.com, 2017. <http://publishing.tor.com/bintihome-nnediokorafor/9780765393104/>**
+<p style="color: gray;">Tor.com, 2017. <a href="http://publishing.tor.com/bintihome-nnediokorafor/9780765393104/">http://publishing.tor.com/bintihome-nnediokorafor/9780765393104/</a></p>
 
 I loved this. It was short and satisfying. It's the sequel to *Binti*, which won a Nebula and a Hugo Award, and which I [read]({{ site.baseurl }}{% post_url 2016-08-20-Binti %}) this past summer.
 

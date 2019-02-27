@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Purple and Black by K.J. Parker"
-permalink: 
+permalink:
 published: true
 date: 2016-09-06 20:33
-category: 
-tag: 
+categories:
 - reading
+tags:
+- K.J. Parker
 ---
 
-***Purple and Black* by K. J. Parker. Burton, MI: Subterranean Press, 2009.**
+<p style="color: gray;">Burton, MI: Subterranean Press, 2009.</p>
 
 I enjoyed reading K. J. Parker’s novella *The Devil You Know*, so when I stumbled upon another K. J. Parker novella at the library, I picked it up. When I saw that it was an epistolary novella, I knew I had to read it. Just the other week, I had the thought that the epistolary form is regrettably underused.
 

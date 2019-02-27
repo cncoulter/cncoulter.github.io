@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "The House on Mango Street by Sandra Cisneros"
-permalink: 
+permalink:
 published: true
 date: 2016-06-01 01:09
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Sandra Cisneros
 ---
 
-***The House on Mango Street* by Sandra Cisneros. New York: Vintage Contemporaries, 1991. Originally published by Arte Público Press in 1984.**
+<p style="color: gray;">New York: Vintage Contemporaries, 1991. Originally published by Arte Público Press in 1984.</p>
 
 *The House on Mango Street* is a short book—110 pages. It’s composed of vignettes, each about 2 pages long. None of the vignettes especially wowed me, but they are all recognizably well-written.
 

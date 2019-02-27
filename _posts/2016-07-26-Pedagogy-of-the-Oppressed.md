@@ -1,15 +1,17 @@
 ---
 layout: post
 title: "Pedagogy of the Oppressed by Paulo Freire"
-permalink: 
+permalink:
 published: true
 date: 2016-07-26 00:24
-category: 
-tag: 
+categories:
 - reading
+tags:
+- "nonfiction: critical pedagogy"
+- Paulo Freire
 ---
 
-***Pedagogy of the Oppressed* by Paulo Freire. New Revised 20th-Anniversary Edition. Trans. Myra Bergman Ramos. New York: Continuum, 1997.**
+<p style="color: gray;">New Revised 20th-Anniversary Edition. Trans. Myra Bergman Ramos. New York: Continuum, 1997.</p>
 
 Great book.
 

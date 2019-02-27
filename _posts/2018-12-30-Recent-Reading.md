@@ -4,9 +4,29 @@ title: "Recent Reading: 30 December 2018"
 permalink:
 published: true
 date: 2018-12-30 10:00
-category:
-tag:
+categories:
 - reading
+tags:
+- recent reading
+- comics
+- "nonfiction: critical pedagogy"
+- short fiction
+- anthology
+- collection
+- translated
+- space opera
+- Sarah Graley
+- Grace Ellis
+- Shae Beagle
+- bell hooks
+- Dominik Parisien
+- Elsa Sjunneson-Henry
+- Liu Cixin
+- James S.A. Corey
+- Nick Mamatas
+- Geonn Cannon
+- K.M. Szpara
+- Carrie Vaughn
 featured-img: /img/Coulter-Kim-Reaper-Moonstruck.jpg
 alt-text: "Photo of Kim Reaper and Moonstruck"
 caption: "Photo by Cameron N. Coulter"

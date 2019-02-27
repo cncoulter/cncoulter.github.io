@@ -26,13 +26,13 @@ footer-links:
   instragram:
   youtube:
   googleplus:
-  linkedin: 
+  linkedin:
   github: cncoulter/cncoulter.github.io
   rss: feed
 
 
 # Build settings
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 sass:
   sass_dir: css
 

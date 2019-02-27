@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Americanah by Chimamanda Ngozi Adiche"
-permalink: 
+permalink:
 published: true
 date: 2016-11-05 15:21
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Chimamanda Ngozi Adiche
 ---
 
 Perhaps I have been reading too much SF, but this work of contemporary literary fiction didn’t sit well with me. It was “literary” and “contemporary” in a way that had a somewhat bitter taste, like black tea that’s steeped too long. Not exactly a bad read, but it certainly didn’t live up to the hype.

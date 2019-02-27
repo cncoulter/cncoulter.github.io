@@ -4,9 +4,11 @@ title: "Favorite 2018 Short Stories"
 permalink:
 published: true
 date: 2019-01-19 19:00
-category:
-tag:
+categories:
 - reading
+tags:
+- short fiction
+- K.M. Szpara
 description:
 - Here are my favorite pieces of short fiction that were originally published in 2018.
 featured-img: /img/nicole-honeywill-730102-unsplash.jpg

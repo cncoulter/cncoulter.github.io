@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "A Wizard of Earthsea by Ursula K. Le Guin"
-permalink: 
+permalink:
 published: true
 date: 2016-05-25 02:42
-category: 
-tag: 
+categories:
 - reading
+tags:
+- Ursula K. Le Guin
 ---
 
-***A Wizard of Earthsea* by Ursula K. Le Guin. Boston: Houghton Mifflin Harcourt, 2012. Originally published by Parnassus in 1968.**
+<p style="color: gray;">Boston: Houghton Mifflin Harcourt, 2012. Originally published by Parnassus in 1968.</p>
 
 Ursula K. Le Guin knows what makes *A Wizard of Earthsea* a good book. In a 2012 afterword, she describes the major reasons why *A Wizard of Earthsea* succeeds. I think this book succeeds, and I’m glad to be able to say that 48 years after its initial publication (although I’ll digress on this later). So not only has this literary titan written a classic, but she has simplified my job of responding to it.
 
@@ -32,4 +33,3 @@ Nonetheless, I’m struck by how *original* I found this nearly 50-year-old stap
 However, I must now digress, for while it speaks to Le Guin’s talent that her old book still feels original, this might also speak to the failure of the larger field. Admittedly, I am less well read in fantasy than I am in science fiction, but I find myself asking: why haven’t more authors followed Le Guin’s lead and more often broken these conventions? Why do fantasy stories seem to feature predominately white or light skinned characters? Why do our stories seem to overvalue rugged individualism? And—my largest complaint—why, when I think of fantasy, do I think of a Great Battle Between Good and Evil? (Again, admittedly, I am less read in fantasy than scifi, and perhaps this trope is no longer prevalent in literature, but surely it remains dominant in film.)
 
 If it meant that our stories featured more persons of color, valued an ethic of cooperation, and lacked a blind adherence to militaristic metaphors, I would be happy to have *A Wizard of Earthsea* feel less original today. But as it is, the book still feels contemporary, important, and challenging.
-
