@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Welcome
+title: Blog
 published: true
 description:
 - I write things, including speculative fiction, poetry, and short fiction reviews. I also blog, mostly about what I've been reading.
-featured-img: /img/thought-catalog-575840-unsplash.jpg
+featured-img: /img/claudia-587578-unsplash.jpg
 ---
 
 <!-- Navbar -->
@@ -12,19 +12,19 @@ featured-img: /img/thought-catalog-575840-unsplash.jpg
     <nav class="navbar navbar-expand-sm navbar-dark rounded static-top" style="background-color: #3D9970;">
         <a class="navbar-brand d-sm-none" href="{{ site.baseurl }}/">Cameron N. Coulter</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <div class="collapse navbar-collapse  justify-content-center" id="navbarResponsive">
             <ul class="navbar-nav">
                 <li><a class="navbar-brand d-none d-sm-block" href="{{ site.baseurl }}/">Cameron N. Coulter</a></li>
                 <li class="navbar-item">
-                    <a href="{{ site.baseurl }}/about" class="nav-link">About</a>
-                </li>
-                <li class="navbar-item">
-                    <a href="{{ site.baseurl }}/blog" class="nav-link">Blog</a>
+                    <a href="{{ site.baseurl }}/" class="nav-link active">Blog</a>
                 </li>
                 <li class="navbar-item">
                     <a href="{{ site.baseurl }}/publications" class="nav-link">Publications</a>
+                </li>
+                <li class="navbar-item">
+                    <a href="{{ site.baseurl }}/about" class="nav-link">About</a>
                 </li>
             </ul>
         </div>
@@ -35,14 +35,140 @@ featured-img: /img/thought-catalog-575840-unsplash.jpg
 
 <div class="container">
 
-    <header class="jumbotron my-4">
-        <h1 class="display-4">Hiya!</h1>
-        <p class="lead">I'm a writer, among other things.</p>
-        <p class="lead"><a href="{{ site.baseurl }}/publications">I write things</a>, usually speculative fiction and poetry. I also review short genre fiction for <em>Skiffy and Fanty</em>, and I contribute to <em>The Ruined Report</em>, a blog about social justice, simple living, community, and spirituality.</p>
-        <p class="lead">I like to <a href="{{ site.baseurl }}/blog">blog</a> here, usually to share my thoughts on what I've been reading.</p>
-        <p class="lead">To learn more about me, check out <a href="{{ site.baseurl }}/about">my bio</a> or sign up for my <a href="{{ site.baseurl }}/about#mailing-list">mailing list</a>.</p>
-        <p class="lead">I'm also on <a href="https://twitter.com/camncoulter">Twitter</a>.</p>
-        <p class="lead">Thanks for stopping by!</p>
-    </header>
+    <div class="row">
+
+        <!-- Main Column -->
+        <div class="col-md-8">
+            <!-- Jumbotron -->
+            <div class="jumbotron my-4">
+                <h1 class="display-4">Hiya!</h1>
+                <p class="lead">I'm a writer, among other things.</p>
+                <p>I write speculative fiction and poetry. I review short genre fiction for <em>Skiffy and Fanty</em>, and I contribute to <em>The Ruined Report</em>, a blog about social justice, simple living, community, and spirituality.</p>
+                <p>I like to blog, usually to share my thoughts on what I've been reading.</p>
+                <p>I'm also on <a href="https://twitter.com/camncoulter">Twitter</a>.</p>
+                <p>Thanks for stopping by!</p>
+            </div>
+
+            <!-- Blog Entries -->
+            <h1 class="my-4">{{ page.title }}</h1>
+
+            {% for post in site.posts limit:3 %}
+            <article>
+
+                <!-- Post: Title -->
+                <h2 class="mt-4"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+                <p class="text-muted">
+                    <!-- Post: Date -->
+                    <i class="far fa-calendar-alt"></i>
+                    {{ post.date | date: "%B %e, %Y" }}
+
+                    <!-- Post: Tags -->
+                    {% if post.tags != empty %}
+                    {% for category in post.categories %}
+                    <a href="{{ site.baseurl }}/blog/categories#{{ category }}" class="badge badge-tag mx-1"><i class="fas fa-folder-open"></i> {{ category }}</a>
+                    {% endfor %}
+                    {% endif %}
+                </p>
+
+                <!-- Featured Image -->
+                {% if post.featured-img %}
+                <img src="{{ post.featured-img }}" class="img-fluid  mx-auto d-block mb-3" alt="{{ post.alt-text }}" title="{{ post.caption }}" />
+                {% endif %}
+
+                <!-- Post: Content -->
+                <div class="blogpost">
+                    {{ post.content }}
+                </div>
+
+                {% if forloop.last == false %}
+                <hr>
+                {% endif %}
+
+            </article>
+            {% endfor %}
+
+        </div>
+
+        <!-- Sidebar Widgets Column -->
+        <div class="col-md-4">
+
+            <!-- Side Widget: Archive & RSS Feed -->
+            <div class="card mt-4">
+                <h5 class="card-header">Read More</h5>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12 col-6">
+                            <a href="{{ site.baseurl }}/blog/archive" class="card-link btn btn-outline-primary m-1"><i class="fas fa-archive"></i> Archive</a>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-6">
+                            <a href="{{ site.baseurl }}/feed.xml" class="card-link btn btn-outline-primary m-1"><i class="fas fa-rss"></i> RSS Feed</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Side Widget: Categories -->
+            <div class="card mt-4">
+                <h5 class="card-header">Categories</h5>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12 col-6">
+                            <ul class="list-unstyled mb-0">
+                                <li>
+                                    <a href="{{ site.baseurl }}/blog/categories#reading" class="card-link badge badge-tag"><i class="fas fa-folder-open"></i> reading</a>
+                                </li>
+                                <li>
+                                    <a href="{{ site.baseurl }}/blog/categories#thoughts" class="card-link badge badge-tag"><i class="fas fa-folder-open"></i> thoughts</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-6">
+                            <ul class="list-unstyled mb-0">
+                                <li>
+                                    <a href="{{ site.baseurl }}/blog/categories#web design" class="card-link badge badge-tag"><i class="fas fa-folder-open"></i> web design</a>
+                                </li>
+                                <li>
+                                    <a href="{{ site.baseurl }}/blog/categories#ebook design" class="card-link badge badge-tag"><i class="fas fa-folder-open"></i> ebook design</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6 col-md-12 col-6">
+                            <ul class="list-unstyled mb-0">
+                                <li>
+                                    <a href="{{ site.baseurl }}/blog/categories#cool stuff" class="card-link badge badge-tag"><i class="fas fa-folder-open"></i> cool stuff</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Side Widget: Recent Posts -->
+            <div class="card mt-4">
+                <h5 class="card-header">Recent Posts</h5>
+                <div class="list-group list-group-flush">
+                    {% for post in site.posts limit:5 %}
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item list-group-item-action">
+                        {{ post.title }}
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <!-- Side Widget: Mailing List -->
+            <div class="card mt-4">
+                <h5 class="card-header">Mailing List</h5>
+                <div class="card-body">
+                    <p class="card-text">I maintain a low-volume mailing list for news about my recent publications and other interestings things that I'm up to. Want to join?</p>
+                    <div class="row justify-content-center">
+                        <a href="https://tinyletter.com/cncoulter" class="card-link btn btn-primary m-1"><i class="fas fa-envelope"></i> Subscribe</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
 
 </div>

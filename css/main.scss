@@ -7,7 +7,7 @@ blockquote {
 	background: #f6f6f6;
     margin: 0 0 20px;
 	padding: 20px 20px 10px;
-    border-left: 4px solid #3D9970;
+    border-left: 4px solid #99493d;
     font-size: 100%;
 }
 
@@ -26,14 +26,14 @@ blockquote {
 }
 
 .badge-tag {
-    color: #3D9970;
+    color: #99493d;
     background-color: #FFF;
-    border: 1px solid #3D9970;
+    border: 1px solid #99493d;
 }
 
 .badge-tag[href]:hover {
     color: #FFF;
-    background-color: #3d9970;
+    background-color: #99493d;
     text-decoration: none;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -42,6 +42,10 @@ blockquote {
     // font-family: "Georgia", "Cambria", "Times New Roman", serif;
     font-size: 17px; /* default is 1rem or 16px */
     line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Catamaran', serif;
 }
 
 /* BEGIN SVG ICONS */
