@@ -79,6 +79,4 @@ Going forward, I'll still try to periodically post about what I'm reading, but i
 
 Anyway, now I review short fiction, and those are my thoughts on it. I welcome feedback and advice! Let me know if you like my reviews or if/when I've said something problematic. You can tweet me [@camncoulter](https://twitter.com/camncoulter) or email me at <span class="obfuscate">moc.retluocnc@mac</span>. See you in the future.
 
-***
-
-<p style="color: gray;">Slightly edited on 26 May 2019 because the way I identify has changed.</p>
+<p class="text-muted font-weight-light small">Slightly edited on 26 May 2019 because the way I identify has changed.</p>
