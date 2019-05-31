@@ -11,14 +11,11 @@ tags:
 - collection
 description:
 - Radicalized is a new collection of four novellas by Cory Doctorow. Although the novellas are unconnected and each stand on their own, their interweaving themes of technology, activism, politics, and society work together to make Radicalized a cohesive and powerful collection. I wish more authors would release books like this.
-featured-img: /img/alejandro-escamilla-22-unsplash.jpg
-alt-text: "Photo of an open book"
-caption: "Photo by Alejandro Escamilla on Unsplash"
-attribution:
-- Photo by <a href="https://unsplash.com/photos/cZhUxIQjILg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alejandro Escamilla</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
 *Radicalized* is a new collection of four novellas by Cory Doctorow. Although the novellas are unconnected and each stand on their own, their interweaving themes of technology, activism, politics, and society work together to make *Radicalized* a cohesive and powerful collection. I wish more authors would release books like this.
+
+<img src="/img/radical.jpg" class="mx-auto d-block mb-3" alt="cover of Radicalized by Cory Doctorow" width="50%" />
 
 ### Unauthorized Bread
 
