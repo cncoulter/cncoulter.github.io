@@ -71,3 +71,7 @@ In fact, I love Roswitha so much that I've even designed a epub of *The Plays of
 <p>This edition, originally published in 1923, includes an introduction by Cardinal Francis Aidan Gasquet (an English Benedictine monk and scholar), a critical preface by the translator (Christopher St. John), and prefaces written by Roswitha herself.</p>
 
 </blockquote>
+
+***
+
+*Update (Jun. 2, 2019):* I've just finished creating an ebook of Roswitha's plays for Standard Ebooks, a volunteer project that produces new, high-quality editions of public domain texts. [Here's the link to the book on Standard Ebooks.](https://standardebooks.org/ebooks/roswitha-of-gandersheim/plays/christopher-st-john)
