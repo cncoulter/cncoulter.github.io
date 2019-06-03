@@ -74,4 +74,4 @@ In fact, I love Roswitha so much that I've even designed a epub of *The Plays of
 
 ***
 
-*Update (Jun. 2, 2019):* I've just finished creating an ebook of Roswitha's plays for Standard Ebooks, a volunteer project that produces new, high-quality editions of public domain texts. [Here's the link to the book on Standard Ebooks.](https://standardebooks.org/ebooks/roswitha-of-gandersheim/plays/christopher-st-john)
+*Update (Jun. 3, 2019):* I've [just finished creating]({{ site.baseurl }}{% post_url 2019-06-03-Ebook-Design-Project %}) an ebook of Roswitha's plays for Standard Ebooks, a volunteer project that produces new, high-quality editions of public domain texts. This new ebook is a little bit more fancy and polished than the above version. [Here's the link](https://standardebooks.org/ebooks/roswitha-of-gandersheim/plays/christopher-st-john) to the book on Standard Ebooks.
