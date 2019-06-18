@@ -46,3 +46,7 @@ Here's the book's cover as well as the blurb I wrote for the book:
 </blockquote>
 
 You can download page scans of the original 1923 book from the [Internet Archive](https://archive.org/details/playsofroswitha00hrotuoft). You can also download an ebook of the book from the Internet Archive; however, that's based off a computer transcription that has more than a few errors. I've corrected the computer transcription and [published the result on GitHub](https://github.com/cncoulter/Transcription_The-Plays-of-Roswitha), so if you want to [remix](https://en.wikipedia.org/wiki/Remix_culture) Roswitha's plays [for whatever reason](https://techcrunch.com/2015/03/22/from-artistic-to-technological-mash-up/), you'll probably want to copy the GitHub repository and build off that. I'm also working on uploading the transcription to Project Gutenberg, so it should be available there as well before long.
+
+***
+
+*Update (Jun. 17, 2019):* *The Plays of Roswitha* is now available on Project Gutenberg as well. [Here's the link](https://www.gutenberg.org/ebooks/59770) for that.
