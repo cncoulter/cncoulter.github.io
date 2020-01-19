@@ -1,5 +1,5 @@
 featured-img: /img/camshot.jpg
-alt-text: "Photo of Cameron N. Coulter"
-caption: "Photo of Cameron N. Coulter"
+alt-text: "Photo of Cam N. Coulter"
+caption: "Photo of Cam N. Coulter"
 attribution:
-- Photo of Cameron N. Coulter
+- Photo of Cam N. Coulter
