@@ -21,7 +21,7 @@ attribution:
 - Photo by <a href="https://unsplash.com/@jeremythomasphoto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jeremy Thomas</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 ---
 
-Welcome to SFF Adventures! This is new column that I'm trying out. This is where I will round up everything that I am reading, listening to, and watching in the realms of science fiction, fantasy, and horror, and I'll also talk about anything I've been creating our doing in these realms. I'll shout out awesome things, give my thoughts on other things, and occasionally write short reviews.
+Welcome to SFF Adventures! This is new column that I'm trying out. This is where I will round up everything that I am reading, listening to, and watching in the realms of science fiction, fantasy, and horror, and I'll also talk about anything I've been creating or doing in these realms. I'll shout out awesome things, give my thoughts on other things, and occasionally write short reviews.
 
 ### Podcasts
 
