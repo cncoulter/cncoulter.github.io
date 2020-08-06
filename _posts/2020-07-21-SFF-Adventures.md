@@ -5,7 +5,7 @@ permalink:
 published: true
 date: 2020-07-21 16:42
 categories:
-- SFF Adventures
+- SFF
 tags:
 - short fiction
 - K.M. Szpara
