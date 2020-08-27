@@ -5,7 +5,15 @@ permalink: /a11y-links/
 published: true
 ---
 
-# A11y Links
+<!-- Page Content-->
+
+<div class="container">
+
+    <div class="row justify-content-center">
+
+        <div class="col-lg-8">
+
+            <h1 class="my-4">{{ page.title }}</h1>
 
 ## Newsletters
 
@@ -54,3 +62,7 @@ published: true
 * [Accessibility at Microsoft](https://www.microsoft.com/en-us/accessibility/)
 * [Digivante BugFinders](https://join.digivante.com/as-functional-tester): Be a functional tester for Digivante and get paid to find bugs
 * [Deque University](https://dequeuniversity.com/): Online training in digital accessibility
+
+</div>
+</div>
+</div>
