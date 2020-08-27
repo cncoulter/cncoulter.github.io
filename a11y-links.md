@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: A11y Links
 permalink: /a11y-links/
 published: true
