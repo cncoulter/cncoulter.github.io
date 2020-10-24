@@ -38,7 +38,11 @@ Unrelated to *FOSS & Crafts* --- *Our Opinions Are Correct* released a good epis
 
 ### Blog Posts & Essays
 
+#### *Strange Horizons*
+
 I enjoyed [this conversation between Becca Evans and Catherine Krahe on *Strange Horizons*](http://strangehorizons.com/non-fiction/azimuth/staff-stories/chatting-with-catherine-krahe-and-becca-evans/). It's a fun informal chat that covers a lot of different things, but I was most interested in hearing Becca share about her work as an accessibility editor for *Strange Horizons*. As I shared in a recent blog post, I've started [nerding out about accessibility]({{ site.baseurl }}{% post_url 2020-08-05-A11y-Adventures %}), so it was cool to see how web accessibility plays out in the world of genre magazines.
+
+#### The Canon
 
 I highly recommend you [support Jason Sanford on Patreon](https://www.patreon.com/jasonsanford), because his regular column Genre Grapevine is terrific. In [a recent Genre Grapevine](https://www.patreon.com/posts/genre-grapevine-40270305), Sanford rounded up how folks have been talking about "the canon" of SFF again. I liked [John Scalzi's post on the canon](https://whatever.scalzi.com/2020/08/07/oh-christ-not-the-science-fiction-canon-again/), and in particular, this bit:
 
@@ -46,17 +50,29 @@ I highly recommend you [support Jason Sanford on Patreon](https://www.patreon.co
 
 I feel like those two sentences succinctly describe why canons are problematic and not cool and poetically describe what we actually have in lieu of a canon.
 
+#### What Really Sells Me on a Book
+
 Speaking of Scalzi, [Michael R. Underwood recently published a guest post](https://whatever.scalzi.com/2020/07/21/the-big-idea-michael-r-underwood/) on Scalzi's blog talking about his latest book *Annihilation Aria*. *Annihilation Aria* is a space opera, and it looks like a fun read. But in this post, Underwood doesn't really spend much time talking about his new book as a space opera. Instead, he discuss how *Annihilation Aria* challenges the flatly unrealistic "happily ever after" trope and instead centers characters in a long-term, committed, dynamic, and evolving relationship. I haven't read enough stories that do that, so that --- in conjunction with the fact that I love space operas and this looks like a great space opera --- put *Annihilation Aria* on my TBR list.
 
 Michael R. Underwood's guest post made me think about how sometimes what really sells you on a book isn't the concept, or the marketing copy, or even everyone else squeeing about it. Sometimes none of those things capture my attention. Sometimes, instead, what captures my attention about a book is one little highly specific detail. For me, those details are likely to be: this book has nonbinary characters, neopronouns, or a different gender system --- this book is about characters in an ongoing, committed relationship --- this book features fundamentally different family and community structures --- this book includes characters who are religious (and who aren't caricatures). The fastest way to sell me on a book is often to tell me one of these things about it. Do you have this experience as well? What are the specific details that can sell you on a book?
 
+#### Religious SFF
+
 On the topic of books that include religious characters, I recently read Leah Schnelbach's Tor.com post "[Six Books About Spacefaring Missionaries](https://www.tor.com/2019/11/07/six-books-that-feature-space-missionaries-sisters-of-the-vast-black-the-sparrow-the-expanse/)". I know I'm a nerd for religious SFF because I've read four of these books and have the other two on my TBR list. My favorite religious SFF book is *A Canticle for Leibowitz* by Walter M. Miller, Jr., but if you're looking for something religious and queer, I recommend *Sisters of the Vast Black* by Lina Rather. Anyone else out there love religious SFF? Any other recommendations besides these six?
+
+#### Linguistics
 
 I liked "['Evil Earth': Linguistic Worldbuilding in N.K. Jemisin’s Broken Earth Trilogy](https://www.tor.com/2020/07/27/evil-earth-linguistic-worldbuilding-in-n-k-jemisins-broken-earth-trilogy/)" by CD Covington on Tor.com. Are you a fan of either linguistics or N.K. Jemisin's Broken Earth trilogy? (I know I am!) If so, I predict you'll also enjoy this.
 
+#### UFOs
+
 We don't have enough SFF about UFOs. Have you been paying attention to the news about UFOs? Legit people from the US military are all like, "Hey, so, our pilots have routinely encountered unidentified flying objects that we don't at all understand. We're not saying they're extraterrestrial in origin, but ... the odds seem pretty good that they might be. We should investigate this more seriously." Last month, Vox published a great interview with professor Alexander Wendt about this that I highly recommend: "[It’s time to take UFOs seriously. Seriously.](https://www.vox.com/policy-and-politics/2020/5/8/21244090/pentagon-ufo-report-navy-alexander-wendt)" Please read this, and then let's start talking and writing more about UFOs.
 
+#### Dungeons & Dragons
+
 [Last month in this column]({{ site.baseurl }}{% post_url 2020-07-21-SFF-Adventures %}), I shouted out a couple essays about Dungeons and Dragons (D&D), and this month I have another D&D essay I recommend: "[D&D will change to address racism, but someone has already done the work](https://www.polygon.com/reviews/2020/7/9/21317614/dungeons-dragons-dnd-race-ancestry-and-culture-book)" by Charlie Hall on Polygon. This essay examines how race in D&D is problematic and bigoted and looks at alternatives to the current system. In particular, this essay looks at [*Ancestry & Culture: An Alternative to Race in 5e*](https://www.drivethrurpg.com/product/314622) by Eugene Marshall, which offers a critical and progressive way to rework race in D&D. In short, it looks like Marshall splits the problematic concept of race into biological ancestry and cultural heritage. *Ancestry & Culture* seems like (1) a cool, non-problematic way to rework race in D&D, and (2) a work of critical race theory disguised an an RPG game. I want to read *Ancestry & Culture*, but I haven't gotten around to it yet. In the meantime, I recommend any D&D fan or anyone striving to be anti-racist to check out the essay on Polygon.
+
+#### The Slush Pile
 
 Lastly, I want to shout out Alex Acks's blog post "[Slush v Solicitations: Just tell us where we stand](https://katsudon.net/?p=6446)." This blog post is half "informative and justified rant" and half "really useful resource for writers." If you write short fiction, check it out.
 
