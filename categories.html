@@ -24,7 +24,7 @@ featured-img: /img/claudia-587578-unsplash.jpg
 
             {% if categories_list.first[0] == null %}
             {% for category in categories_list %}
-            <a href="{{ site.baseurl }}/blog/categories#{{ category }}">
+            <a href="{{ site.baseurl }}/blog/categories#{{ category | url_encode }}">
                     {{ category }} <span class='badge badge-primary'>{{ site.categories[category].size }}</span>
                   </a>
             {% endfor %}
@@ -32,7 +32,7 @@ featured-img: /img/claudia-587578-unsplash.jpg
 
             <p>
                 {% for category in categories_list %}
-                <a href="{{ site.baseurl }}/blog/categories#{{ category[0] }}" class="btn btn-outline-primary my-1">
+                <a href="{{ site.baseurl }}/blog/categories#{{ category[0] | url_encode }}" class="btn btn-outline-primary my-1">
                     <i class="fas fa-folder-open"></i>
                     {{ category[0] }}
                     <span class="badge badge-tag">{{ category[1].size }}</span>
@@ -46,7 +46,7 @@ featured-img: /img/claudia-587578-unsplash.jpg
 
             <!-- List out all posts for reach tag -->
             {% for category in site.categories %}
-            <h2 id="{{ category[0] }}">{{ category[0] }}</h2>
+            <h2 id="{{ category[0] | url_encode }}">{{ category[0] }}</h2>
             <ul>
                 {% assign pages_list = category[1] %}
 
