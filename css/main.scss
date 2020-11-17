@@ -48,6 +48,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Catamaran', serif;
 }
 
+.nav-link, .footer-link {
+	color: #FFF !important;
+}
+
+.nav-link.active {
+	border-bottom: medium solid;
+}
+
 /* BEGIN SVG ICONS */
 
 .svg-icon {
