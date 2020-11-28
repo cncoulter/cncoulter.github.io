@@ -56,6 +56,26 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: medium solid;
 }
 
+a:focus {
+	text-decoration: underline;
+	border: medium solid #99493d;
+}
+
+nav a:focus,
+footer a:focus {
+	border: medium solid #ebf4f0;
+}
+
+a.list-group-item:focus {
+	border: none;
+	font-weight: bold;
+}
+
+.icons a:focus {
+	border: none;
+	border-bottom: thick solid black;
+}
+
 /* BEGIN SVG ICONS */
 
 .svg-icon {
