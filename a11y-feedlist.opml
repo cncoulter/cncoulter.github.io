@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Accessibility</title>
+  </head>
+  <body>
+      <outline title="100 Days of A11y" text="100 Days of A11y" description="100 Days of A11y" type="rss" xmlUrl="https://100daysofa11y.com/feed/" htmlUrl="https://100daysofa11y.com"/>
+      <outline title="24 Accessibility" text="24 Accessibility" description="24 Accessibility" type="rss" xmlUrl="https://www.24a11y.com/feed/" htmlUrl="https://www.24a11y.com"/>
+      <outline title="3Play Media" text="3Play Media" description="3Play Media" type="rss" xmlUrl="https://www.3playmedia.com/feed/" htmlUrl="https://www.3playmedia.com"/>
+      <outline title="ADA Title III" text="ADA Title III" description="ADA Title III" type="rss" xmlUrl="https://www.adatitleiii.com/feed/" htmlUrl="https://www.adatitleiii.com"/>
+      <outline title="Adrian Roselli" text="Adrian Roselli" description="Adrian Roselli" type="rss" xmlUrl="https://adrianroselli.com/feed" htmlUrl="https://adrianroselli.com"/>
+      <outline title="Axess Lab" text="Axess Lab" description="Axess Lab" type="rss" xmlUrl="https://axesslab.com/feed/" htmlUrl="https://axesslab.com"/>
+      <outline title="Carie Fisher" text="Carie Fisher" description="Carie Fisher" type="rss" xmlUrl="https://cariefisher.com/rss.xml" htmlUrl="https://cariefisher.com"/>
+      <outline title="Converge Accessibility" text="Converge Accessibility" description="Converge Accessibility" type="rss" xmlUrl="https://convergeaccessibility.com/feed/" htmlUrl="https://convergeaccessibility.com"/>
+      <outline title="Deque Systems" text="Deque Systems" description="Deque Systems" type="rss" xmlUrl="https://www.deque.com/feed/" htmlUrl="https://www.deque.com"/>
+      <outline title="Diamond" text="Diamond" description="Diamond" type="rss" xmlUrl="https://blog.diamond.la/rss.xml" htmlUrl="https://blog.diamond.la"/>
+      <outline title="Equal Entry" text="Equal Entry" description="Equal Entry" type="rss" xmlUrl="https://equalentry.com/feed/" htmlUrl="https://equalentry.com"/>
+      <outline title="Lainey Feingold" text="Lainey Feingold" description="Lainey Feingold" type="rss" xmlUrl="https://www.lflegal.com/feed/" htmlUrl="https://www.lflegal.com"/>
+      <outline title="Laura Kalbag" text="Laura Kalbag" description="Laura Kalbag" type="rss" xmlUrl="https://laurakalbag.com/posts/index.xml" htmlUrl="https://laurakalbag.com/posts/"/>
+      <outline title="Level Access" text="Level Access" description="Level Access" type="rss" xmlUrl="https://www.levelaccess.com/feed/" htmlUrl="https://www.levelaccess.com"/>
+      <outline title="Marcy Sutton" text="Marcy Sutton" description="Marcy Sutton" type="rss" xmlUrl="https://marcysutton.com/rss.xml" htmlUrl="https://marcysutton.com"/>
+      <outline title="Sarah Horton" text="Sarah Horton" description="Sarah Horton" type="rss" xmlUrl="https://sarahhortondesign.com/feed/" htmlUrl="https://sarahhortondesign.com"/>
+      <outline title="Sheri Byrne-Haber" text="Sheri Byrne-Haber" description="Sheri Byrne-Haber" type="rss" xmlUrl="https://sheribyrnehaber.com/feed/" htmlUrl="https://sheribyrnehaber.com"/>
+      <outline title="The A11Y Project" text="The A11Y Project" description="The A11Y Project" type="atom" xmlUrl="https://www.a11yproject.com/feed/feed.xml" htmlUrl="https://a11yproject.com"/>
+      <outline title="TPGi" text="TPGi" description="TPGi" type="rss" xmlUrl="https://www.tpgi.com/feed/" htmlUrl="https://www.tpgi.com"/>
+      <outline title="UsableNet" text="UsableNet" description="UsableNet" type="rss" xmlUrl="https://blog.usablenet.com/rss.xml" htmlUrl="https://blog.usablenet.com"/>
+  </body>
+</opml>
