@@ -10,6 +10,11 @@ tags:
 - 100 Days of A11y
 description:
 - What are the different ways of understanding disability, and what are the strengths and weakness of these different models?
+featured-img: /img/a11y.jpg
+alt-text: "Universal access icon: a stick figure with a circle around them"
+caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
+attribution:
+- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>. 
 ---
 
 There are a number of different theoretical models that we use to understand disability. What are the most common models that you are likely to come across?

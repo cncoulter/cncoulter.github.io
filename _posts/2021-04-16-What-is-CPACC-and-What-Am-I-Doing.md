@@ -10,6 +10,11 @@ tags:
 - 100 Days of A11y
 description:
 - I am planning to take the CPACC exam, and I am going to blog my way through the body of knowledge as I study.
+featured-img: /img/a11y.jpg
+alt-text: "Universal access icon: a stick figure with a circle around them"
+caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
+attribution:
+- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>. 
 ---
 
 About a year ago, I started a concerted effort to learn more about accessibility, both as a topic in and of itself and as a profession. In “[Accessibility Adventures: August 2020]({{ site.baseurl }}{% post_url 2020-08-05-A11y-Adventures %}),” I shared about how I got interested in accessibility and why I want a career in it. Since then, I've continued to read about accessibility, I've made some [accessibility updates]({{ site.baseurl }}{% post_url 2020-11-30-A11y-Updates %}) to my blog, and I've begun to incorporate accessibility into my work as a training specialist. I've also researched careers in accessibility and thought carefully about what to do next.

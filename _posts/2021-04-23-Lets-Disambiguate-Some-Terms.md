@@ -10,6 +10,11 @@ tags:
 - 100 Days of A11y
 description:
 - Let's take a moment to get our terms straight and talk about different professions that deal with disability and accessibility.
+featured-img: /img/a11y.jpg
+alt-text: "Universal access icon: a stick figure with a circle around them"
+caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
+attribution:
+- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>. 
 ---
 
 You know what I love? Context. I can honestly get quite excited about it sometimes. I appreciate when folks pause to provide some context for a discussion, define and disambiguate their terminology, and make sure everyone is on the same page. In that spirit, before I progress with my [100 Days of A11y]({{ site.baseurl }}/a11y/#100-days-of-a11y) blog series, I want to take a moment to do just that.

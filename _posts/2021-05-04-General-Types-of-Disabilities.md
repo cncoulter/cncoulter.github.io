@@ -10,6 +10,11 @@ tags:
 - 100 Days of A11y
 description:
 - There are many different types of disabilities. What are the different ways we can categorize them?
+featured-img: /img/a11y.jpg
+alt-text: "Universal access icon: a stick figure with a circle around them"
+caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
+attribution:
+- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>. 
 ---
 
 There are lots of different disabilities out there. In my next post, I will explore specific types of disabilities, their associated barriers, and appropriate assistive technologies and adaptive strategies. First, though, I want to explore some different broad ways that we can categorize disabilities.
