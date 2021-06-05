@@ -4,6 +4,7 @@ title: "Universal Design vs. Accommodations"
 permalink:
 published: true
 date: 2021-05-28 13:31
+date_updated: 2021-06-04 12:11
 categories:
 - accessibility
 tags:
@@ -14,7 +15,7 @@ featured-img: /img/a11y.jpg
 alt-text: "Universal access icon: a stick figure with a circle around them."
 caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
 attribution:
-- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>.
+- Image created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>.
 ---
 
 Jamie Knight works for the BBC. He likes to say that his job is "to make sure that our apps, websites, and services [don't disable people](https://youtu.be/XBzXBY9G2u4?t=253)." That viewpoint is informed by the [social model of disability]({{ site.baseurl }}{% post_url 2021-04-26-Models-of-Disability%}#the-social-model).
@@ -44,7 +45,7 @@ Later, the University at Buffalo's Center for Inclusive Design and Environmental
 7. Personalization
 8. Cultural Appropriateness
 
-When I think about universal design, I think about how [dis/ability is a spectrum, not a binary](https://www.24a11y.com/2018/disability-is-a-spectrum-not-a-binary/). Even if you don't have a permanent disability, you likely still experience temporary impairments or situational limitations. Universal design is good design, because it takes into account and designs for the broad range of human needs and capabilities. Universal design benefits accessibility and usability. Everyone can benefit from universal design, even if you don't have a documented disability. In this way, I think of universal design as a subset of [inclusive design](http://www.inclusivedesigntoolkit.com/whatis/whatis.html), which I wrote about in my earlier post "[Let's Disambiguate Some Terms]({{ site.baseurl }}{% post_url 2021-04-23-Lets-Disambiguate-Some-Terms %})."
+When I think about universal design, I think about how [dis/ability is a spectrum, not a binary](https://www.24a11y.com/2018/disability-is-a-spectrum-not-a-binary/). Even if you don't have a permanent disability, you likely still experience temporary impairments or situational limitations, and you're likely to acquire age-related disabilities as you grow older. Universal design is good design, because it takes into account and designs for the broad range of human needs and capabilities. Universal design benefits accessibility and usability. Everyone can benefit from universal design, even if you don't have a documented disability. In this way, I think of universal design as a subset of [inclusive design](http://www.inclusivedesigntoolkit.com/whatis/whatis.html), which I wrote about in my earlier post "[Let's Disambiguate Some Terms]({{ site.baseurl }}{% post_url 2021-04-23-Lets-Disambiguate-Some-Terms %})."
 
 Universal design can help [remove the need for specialized accommodations](https://www.washington.edu/doit/universal-design-vs-accommodation). If a building is designed to be wheelchair accessible, people who use wheelchairs won't need to request accommodations. Universal design (and accessibility more generally) also helps enable specialized assistive technologies to work properly. When information is provided on an accessible webpage, people who are deafblind can read it with a screen reader and a refreshable braille display. However, a refreshable braille display won't do you much good if the information is only available as a scanned image file or a printed handout.
 
