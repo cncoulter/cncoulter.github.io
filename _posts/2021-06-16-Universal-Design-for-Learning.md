@@ -9,7 +9,7 @@ categories:
 tags:
 - 100 Days of A11y
 description:
-- TK
+- What are the principles and guidelines behind Universal Design for Learning?
 featured-img: /img/a11y.jpg
 alt-text: "Universal access icon: a stick figure with a circle around them."
 caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
