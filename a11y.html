@@ -1,0 +1,163 @@
+---
+layout: default
+title: Accessibility
+permalink: /a11y/
+published: true
+description:
+- Welcome to my "homepage" for accessibility.
+---
+
+<!-- Navbar -->
+
+<div class="container">
+	<nav class="navbar navbar-expand-sm navbar-dark rounded static-top" style="background-color: #348360;">
+		<a class="navbar-brand d-sm-none" href="{{ site.baseurl }}/">Cam N. Coulter</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse  justify-content-center" id="navbarResponsive">
+			<ul class="navbar-nav">
+				<li><a class="navbar-brand d-none d-sm-block" href="{{ site.baseurl }}/">Cam N. Coulter</a></li>
+				<li class="navbar-item">
+					<a href="{{ site.baseurl }}/" class="nav-link">Blog</a>
+				</li>
+				<li class="navbar-item">
+					<a href="{{ site.baseurl }}/publications" class="nav-link">Publications</a>
+				</li>
+				<li class="navbar-item">
+					<a href="{{ site.baseurl }}/a11y" class="nav-link active">Accessibility</a>
+				</li>
+				<li class="navbar-item">
+					<a href="{{ site.baseurl }}/about" class="nav-link">About</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</div>
+
+<!-- Page Content-->
+
+<div class="container">
+
+	<div class="row justify-content-center">
+
+		<!-- Main Column -->
+		<div class="col-md-8">
+
+			<h1 class="my-4">{{ page.title}}</h1>
+
+			<p>Welcome to my "homepage" for accessibility. You can view a <a href="{{ site.baseurl }}/blog/categories/#accessibility">list of blog posts about accessibility</a> on the category index. See <a href="{{ site.baseurl }}/about-this-site">About This Site</a> for notes about the accessibility of this website.</p>
+
+			<hr>
+
+			<h2>Contents</h2>
+
+			<ul>
+				<li><a href="#100-days-of-a11y">100 Days of A11y</a></li>
+				<li><a href="#resources">Resources</a></li>
+			</ul>
+
+			<hr>
+
+			<h2 id="100-days-of-a11y">100 Days of A11y</h2>
+
+			<p>I recently tested for a professional certification: <a href="https://www.accessibilityassociation.org/cpacccertification">Certified Professional in Accessibility Core Competencies</a> (CPACC). Inspired by <a href="https://100daysofa11y.com">Amy Carney's 100 Days of A11y blog</a>, I decided to blog my way through the CPACC body of knowledge as I prepared for the exam. Here are the resulting posts:</p>
+
+			<ol>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-04-16-What-is-CPACC-and-What-Am-I-Doing %}">What is CPACC and What Am I Doing?</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-04-23-Lets-Disambiguate-Some-Terms %}">Let's Disambiguate Some Terms</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-04-26-Models-of-Disability %}">Theoretical Models of Disability</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-05-04-General-Types-of-Disabilities %}">General Types of Disabilities</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-05-16-Disabilities-AT %}">Disabilities, Barriers, Adaptive Strategies, and Assistive Tech</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-05-20-Disability-Statistics %}">Disability Demographics and Statistics</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-05-22-Disability-Etiquette %}">Disability Etiquette</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-05-28-Universal-Design-vs-Accommodations %}">Universal Design vs. Accommodations</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-04-Benefits-of-Accessible-Design %}">Benefits of Accessible Design</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-09-Principles-Web-Accessibility %}">Principles of Web Accessibility</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-11-Principles-Universal-Design %}">Principles of Universal Design</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-16-Universal-Design-for-Learning %}">Universal Design for Learning</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-19-UX-Usability-Accessibility %}">User Experience, Usability, & Accessibility</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-23-Disability-Rights-Accessibility-Laws-Internationally %}">Disability Rights & Accessibility Laws, Internationally</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-25-Disability-Rights-Accessibility-Laws-Regionally %}">Disability Rights & Accessibility Laws, Regionally</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-06-28-Disability-Rights-Accessibility-Laws-Outside-the-US %}">Disability Rights & Accessibility Laws, Outside the United States</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-07-07-Disability-Rights-Accessibility-Laws-Inside-the-US %}">Disability Rights & Accessibility Laws, Inside the United States</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-07-10-ICT-Accessibility-and-Organizational-Management %}">ICT Accessibility and Organizational Management</a></li>
+				<li><a href="{{ site.baseurl }}{% post_url 2021-07-21-CPACC-Reflection %}">CPACC Review</a></li>
+			</ol>
+
+			<hr>
+
+			<h2 id="resources">Resources</h2>
+
+			<p>Here you can find links to accessibility-focused newsletters, blogs, reference sites, and more. This list is not intended to be an exhaustive list of such resources. (There are so many out there!) Rather, it is meant to be my roundup of resources that I find especially valuable.</p>
+
+			<h3 id="email-newsletters">Email Newsletters</h3>
+
+			<ul>
+				<li><a href="https://a11yweekly.com/">Accessibility Weekly</a>: A weekly email newsletter about web accessibility, curated by David A. Kennedy.</li>
+				<li><a href="https://www.microassist.com/digital-access/news/">Microassist’s Accessibility in the News</a>: A weekly accessibility newsletter curated by Jack McElaney. This is a roundup of accessibility news from across the world, touching on both physical and digital accessibility.</li>
+				<li><a href="https://www.accessibilityassociation.org/content.asp?contentid=167">Accessibility Matters</a>: IAAP’s monthly newsletter.</li>
+				<li>Happening this Week: IAAP’s weekly newsletter. This newsletter is especially useful for finding out about accessibility events and webinars.</li>
+				<li><a href="https://webaim.org/newsletter/">WebAIM Newsletter</a>: WebAIM’s monthly newsletter on web accessibility.</li>
+				<li><a href="https://t12t.se/en/accessibility-newsletter">T12T’s Newsletter</a>: T12t is a Swedish accessibility group. They have a good English-language newsletter that comes out sporadically.</li>
+			</ul>
+
+			<h3 id="podcasts-videos--meet-ups">Podcasts, Videos, &amp; Meet-ups</h3>
+
+			<ul>
+				<li><a href="https://a11yrules.com/">A11y Rules Podcast</a>: A podcast about web accessibility hosted by Nicolas Steenhout.</li>
+				<li><a href="https://a11ytalks.com/">A11y Talks</a>: Monthly virtual meet-ups on digital accessibility.</li>
+				<li><a href="https://www.meetup.com/a11ybay/">A11y Bay</a>: Bay Area Accessibility and Inclusive Design meet-up group.</li>
+			</ul>
+
+			<h3 id="blogs">Blogs</h3>
+
+			<p>Do you use an RSS/Atom feed reader? If so, you can quickly add all of these blogs to your feed reader by downloading and importing this OPML file: <a href="/a11y-feedlist.opml">a11y-feedlist.opml</a></p>
+
+			<ul>
+				<li><a href="https://www.adatitleiii.com/">Seyfarth: ADA Title III News &amp; Insights</a></li>
+				<li><a href="https://convergeaccessibility.com/blog/">Converage Accessibility</a></li>
+				<li><a href="https://www.deque.com/blog/">Deque Systems</a></li>
+				<li><a href="https://www.paciellogroup.com/blogs/">TPGi</a></li>
+				<li><a href="https://www.levelaccess.com/blog/">Level Access</a></li>
+				<li><a href="https://equalentry.com/blog/">Equal Entry</a></li>
+				<li><a href="https://blog.diamond.la/tag/blog">Diamond</a></li>
+				<li><a href="https://blog.usablenet.com/">UsableNet</a></li>
+				<li><a href="https://www.3playmedia.com/blog/">3Play Media</a></li>
+				<li><a href="https://axesslab.com/articles/">Axess Lab</a></li>
+				<li><a href="https://www.24a11y.com/">24 A11y</a></li>
+				<li><a href="https://www.lflegal.com/articles/">Lainey Feingold</a></li>
+				<li><a href="https://sheribyrnehaber.medium.com/">Sheri Byrne-Haber</a></li>
+				<li><a href="https://100daysofa11y.com/">Amy Carney: 100 Days of A11y</a></li>
+				<li><a href="https://laurakalbag.com/posts/">Laura Kalbag</a></li>
+				<li><a href="https://marcysutton.com/writing/">Marcy Sutton</a></li>
+				<li><a href="https://cariefisher.com/">Carie Fisher</a></li>
+				<li><a href="https://adrianroselli.com/">Adrian Roselli</a></li>
+				<li><a href="https://sarahhortondesign.com/">Sarah Horton</a></li>
+				<li><a href="https://medium.com/topic/accessibility">Accessibility on Medium</a></li>
+				<li><a href="https://medium.com/topic/disability">Disability on Medium</a></li>
+			</ul>
+
+			<!-- * [Disability Studies Quarterly](https://dsq-sds.org/): An academic peer-reviewed journal from the Society for Disability Studies (SDS) -->
+
+			<h3 id="reference">Reference</h3>
+
+			<ul>
+				<li><a href="https://a11y.coffee/">A11y Coffee</a>: Probably your best starting place for learning about web accessibility.</li>
+				<li><a href="https://a11yproject.com/">The A11y Project</a>: A fantastic reference site filled with digestible and up-to-date posts about web accessibility.</li>
+				<li><a href="https://www.getstark.co/library/">Stark’s Public Library</a>: An enormous list of accessibility resources.</li>
+				<li><a href="https://www.accessibilityassociation.org">International Association of Accessibility Professionals (IAAP)</a>: The professional organization for accessibility professionals.</li>
+				<li><a href="https://webaim.org/">WebAIM (Accessibility in Mind)</a>: A great general-purpose resource site for web accessibility. WebAIM is a non-profit organization based at the Center for Persons with Disabilities at Utah State University.</li>
+				<li><a href="https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/">FreeCodeCamp: Introduction to the Applied Accessibility Challenges</a></li>
+				<li><a href="https://dequeuniversity.com/">Deque University</a>: Online training in digital accessibility.</li>
+				<li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility">Mozilla Developer Network (MDN) Web Docs: Acessibility</a></li>
+				<li><a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility">MDN Web Docs: Cross Browser Testing &amp; Accessibility</a></li>
+				<li><a href="https://www.w3.org/WAI/WCAG21/quickref/">How to Meet WCAG (Quick Reference)</a> from the W3C</li>
+				<li><a href="https://www.microsoft.com/en-us/accessibility/">Accessibility at Microsoft</a> and <a href="https://www.microsoft.com/design/inclusive/">Inclusive Design at Microsoft</a></li>
+			</ul>
+
+			<!-- * [Digivante BugFinders](https://join.digivante.com/as-functional-tester): Be a functional tester for Digivante and get paid to find bugs -->
+
+		</div>
+	</div>
+</div>
