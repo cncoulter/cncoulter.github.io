@@ -4,6 +4,7 @@ title: "Disability Rights & Accessibility Laws, Inside the United States"
 permalink:
 published: true
 date: 2021-07-07 18:41
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -39,7 +40,7 @@ Section 504 prohibits federal agencies or programs that receive federal funding 
 
 Section 508 is actually an amendment to the original law. It was enacted in 1998. Under Section 508, when federal agencies develop, procure, maintain, or use electronic and information technologies, those technologies must be accessible both to employees and members of the public with disabilities.
 
-Section 508 is a law. It's also a standard. For the purposes of following Section 508, the law, what exactly counts as accessible? That's defined by the [Section 508 standards](https://www.access-board.gov/ict/), created by the Access Board. Those standards were "[refreshed](https://www.deque.com/blog/section-508-refresh-news-ict-final-rule-update/)" in 2018 and specifically reference WCAG 2.0 level AA. However, the 508 standards are more comprehensive than WCAG. WCAG stands for the Web Content Accessibility Guidelines and, unsurprisingly, was written expressly for the web (although the principles behind WCAG can be extended and applied elsewhere if desired). The 508 standards address more than just web accessibility; they also set standards for meetings and electronic documents like PDFs.
+Section 508 is a law. It's also a standard. For the purposes of following Section 508, the law, what exactly counts as accessible? That's defined by the [Section 508 standards](https://www.access-board.gov/ict/), created by the Access Board. Those standards were "[refreshed](https://www.deque.com/blog/section-508-refresh-news-ict-final-rule-update/)" in 2018 and specifically reference WCAG 2.0 level AA. However, the 508 standards are more comprehensive than WCAG. WCAG stands for the *Web Content* Accessibility Guidelines, and unsurprisingly WCAG was written expressly for the web (although the principles behind WCAG can be extended and applied elsewhere if desired). The 508 standards address more than just web accessibility; they also set standards for meetings and electronic documents like PDFs.
 
 It should be noted: Section 508 sets mandatory ICT accessibility standards for federal agencies. Those standards don't directly apply to the private sector. However, if a private company wants to sell to the federal government, their product will need to conform with the 508 standards. In this way, Section 508 uses the significant buying power of the federal government to push for accessibility outside government. Additionally, private organizations can adopt and follow the Section 508 standards if they wish.
 
@@ -71,7 +72,7 @@ The DOJ has created regulations for the ADA, adopting the [ADA Standards for Acc
 
 Also, the ADA requires covered entities to make reasonable accommodations for persons with disabilities. In employment contexts, a [reasonable accommodation](https://www.dol.gov/agencies/odep/program-areas/employers/accommodations) modifies a job or work environment so that employees with disabilities can still perform essential job functions. In the case of public accommodations, businesses must make reasonable accommodations, modifying their usual way of doing things to serve persons with disabilities. These accommodations often take the form of assistive technologies or accessible physical or digital environments. Additionally, the ADA requires public and private entities to ensure [effective communication](https://adata.org/factsheet/communication) with people with disabilities by providing "auxiliary aids and services" at no additional charge. Again, these "auxiliary aids and services" often take the form of accessible and assistive technologies. The DOJ has also issued [regulations](https://www.ada.gov/effective-comm.htm) clarifying this point.
 
-How does the ADA, and Title III of the ADA in particular, relate to digital accessibility in particular? The ADA doesn't directly address web accessibility or create legal standards for ICT accessibility, so to answer that question we need to turn to DOJ rulemaking and case law.
+How does the ADA, and Title III of the ADA in particular, relate to web accessibility in particular? The ADA doesn't directly address web accessibility or create legal standards for ICT accessibility, so to answer that question we need to turn to DOJ rulemaking and case law.
 
 First up, let's look at DOJ rulemaking. Under the Obama administration, the DOJ began the process of developing ADA website guidelines. However, [that rulemaking process stalled](https://www.3playmedia.com/blog/doj-withdraws-ada-website-access-regulations/) under the Trump administration. Nonetheless, even without publishing formal regulations, the DOJ has stated that it believes [the ADA does apply to websites](https://www.adatitleiii.com/2018/10/doj-says-failure-to-comply-with-web-accessibility-guidelines-is-not-necessarily-a-violation-of-the-ada/).
 
@@ -113,7 +114,7 @@ There are other federal laws that have implications for disability rights and ac
 
 ##### Unruh Civil Rights Act
 
-The [Unruh Civil Rights Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=51) is a broad anti-discrimination law in the state of California, explicitly protecting persons with disability. The law applies to businesses in California, and the law explicitly states that:
+The [Unruh Civil Rights Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=51) is a broad anti-discrimination law in the state of California, explicitly protecting persons with disabilities. The law applies to businesses in California, and the law explicitly states that:
 
 > A violation of the right of any individual under the federal Americans with Disabilities Act of 1990 (Public Law 101-336) shall also constitute a violation of this section.
 

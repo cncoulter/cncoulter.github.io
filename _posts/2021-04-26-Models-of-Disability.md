@@ -4,6 +4,7 @@ title: "Theoretical Models of Disability"
 permalink:
 published: true
 date: 2021-04-26 18:13
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -14,7 +15,7 @@ featured-img: /img/a11y.jpg
 alt-text: "Universal access icon: a stick figure with a circle around them"
 caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
 attribution:
-- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>. 
+- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>.
 ---
 
 There are a number of different theoretical models that we use to understand disability. What are the most common models that you are likely to come across?
@@ -73,7 +74,7 @@ What does that mean in practice? Biological impairments are real things, which m
 
 Strength: This model is nuanced and can be used to address disability from a variety of levels. It can also be applied to both prevention and intervention. Like the medical model, the biopsychosocial model can be used to create definitions and qualifications for legal purposes.
 
-Weakness: It's a little complicated to wrap your head around at first. It may also overlook the insights of the social identify/cultural affiliation model.
+Weakness: It's a little complicated to wrap your head around at first. It may also overlook the insights of the social identity/cultural affiliation model.
 
 We can see the biopsychosocial model in action when an occupational therapist (OT) helps someone learn to use an assistive technology and later when the OT advocates for web accessibility.
 
@@ -83,7 +84,7 @@ The economic model is concerned with how disability impacts an individual's abil
 
 Strength: This model is sensitive to the reality that many people with disabilities are unemployed and require social assistance.
 
-Weakness: This approach to disability overlooks many other aspects of disability and can also great a stigma against people with disabilities, labeling them as "needy."
+Weakness: This approach to disability overlooks many other aspects of disability and can also create a stigma against people with disabilities, labeling them as "needy."
 
 We see the economic model in action when an employer wonders if someone with a disability would be "as productive" as someone without or when people creating welfare systems assume people with disabilities require economic support.
 

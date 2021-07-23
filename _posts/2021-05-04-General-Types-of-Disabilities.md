@@ -4,6 +4,7 @@ title: "General Types of Disabilities"
 permalink:
 published: true
 date: 2021-05-04 18:36
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -14,7 +15,7 @@ featured-img: /img/a11y.jpg
 alt-text: "Universal access icon: a stick figure with a circle around them"
 caption: "Image created by Cam Coulter. Icon by mikicon on the Noun Project."
 attribution:
-- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>. 
+- Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>.
 ---
 
 There are lots of different disabilities out there. In my next post, I will explore specific types of disabilities, their associated barriers, and appropriate assistive technologies and adaptive strategies. First, though, I want to explore some different broad ways that we can categorize disabilities.
@@ -70,7 +71,7 @@ This can be a useful way of categorizing disabilities (recognizable vs. hidden) 
 
 ## Web-Relevant Disabilities
 
-Computers, the Internet, and the Web have become integral elements of modern life. Many, but not all, disabilities affect a person's ability to use these tools. Typically, only disabilities that affect a person's eyes, ears, hands, or brain influence a person's ability to use the web independently. This way of categorizing disabilities can be useful to designers and developers creating websites and apps.
+Computers, the Internet, and the web have become integral elements of modern life. Many, but not all, disabilities affect a person's ability to use these tools. Typically, only disabilities that affect a person's eyes, ears, hands, or brain influence a person's ability to use the web independently. This way of categorizing disabilities can be useful to designers and developers creating websites and apps.
 
 ## Print Disabilities
 
@@ -82,7 +83,7 @@ There are many different causes of speech disabilities (a stroke, hearing loss, 
 
 ### Disabilities that are Minor and Easily Compensated for
 
-I wear glasses. I can complete most tasks without them, although reading can be a challenge if I don't have them. My employer pays for my vision insurance, and my vision insurance pays for some of the cost of my glasses. It's relatively easy to get my vision checked out and order a new pair when I need one. This is a relatively minor (and common) impairment, one that society supports and compensates for fairly well and one that doesn't create many activity limitations.
+I wear glasses. I can complete most tasks without them, although reading can be a challenge if I don't have them. My employer pays for my vision insurance, and my vision insurance pays for some of the cost of my glasses. It's relatively easy to get my vision checked out and order a new pair when I need one. This is a relatively minor (and common) impairment, one that society supports and compensates for fairly well and one that doesn't create many limitations or restrictions.
 
 Some disabilities are minor and easily compensated for, like my vision. I don't think we have great language yet to talk about these sorts of disabilities. Honestly, I don't even really think "disability" is the correct word here, because I am rarely disabled because of my vision. Disability, and human ability in general, is a broad spectrum. But I do think this is another way of thinking about and categorizing dis/abilities that can be helpful to keep in mind.
 

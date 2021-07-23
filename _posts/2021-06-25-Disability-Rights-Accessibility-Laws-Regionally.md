@@ -4,6 +4,7 @@ title: "Disability Rights & Accessibility Laws, Regionally"
 permalink:
 published: true
 date: 2021-06-25 07:41
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -43,7 +44,7 @@ The [Web Accessibility Directive](https://digital-strategy.ec.europa.eu/en/polic
 
 #### EN 301 549
 
-EN 301 549 is also known as "Accessibility requirements suitable for public procurement of ICT products and services in Europe." EN 301 549 isn't a law; rather, it's a European standard for digital accessibility, focusing on public (government) procurement of products and services. Similar to the [Section 508](https://www.section508.gov/manage/laws-and-policies) technical standards in the US, EN 301 549 addresses a wide array of ICT, beyond just websites. For sections that do address web accessibility, EN 301 549 directly references WCAG 2.1 level AA. EN 301 549 has been updated a few times. I believe the most recent update was in 2019: [EN 301 549 V3.1.1](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.01.01_60/en_301549v030101p.pdf).
+EN 301 549 is also known as "Accessibility requirements suitable for public procurement of ICT products and services in Europe." EN 301 549 is a European standard for digital accessibility, focusing on public (government) procurement of products and services. Similar to the [Section 508](https://www.section508.gov/manage/laws-and-policies) technical standards in the US, EN 301 549 addresses a wide array of ICT, beyond just websites. For sections that do address web accessibility, EN 301 549 directly references WCAG 2.1 level AA. EN 301 549 has been updated a few times. I believe the most recent update was in 2019: [EN 301 549 V3.1.1](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.01.01_60/en_301549v030101p.pdf).
 
 For more on EN 301 549, I recommend the post "[What does European accessibility standard EN 301 549 mean for US organizations?](https://www.deque.com/blog/european-accessibility-standard-en-301-549/)" on Deque's blog.
 
@@ -71,7 +72,7 @@ As the title of the treaty implies, the Convention specifically addresses discri
 
 > The objectives of this Convention are to prevent and eliminate all forms of discrimination against persons with disabilities and to promote their full integration into society.
 
-Article 3 says that countries will "undertake to" adopt legislation and other measures to eliminate discrimation by both governments and private entities and eliminate architectural, transportation, and communication access barriers. Article 3 also says that countries will work on:
+Article 3 says that countries will "undertake to" adopt legislation and other measures to eliminate discrimination by both governments and private entities and eliminate architectural, transportation, and communication access barriers. Article 3 also says that countries will work on:
 
 * Preventing preventable disabilities
 * Treatment

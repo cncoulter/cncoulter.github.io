@@ -4,7 +4,7 @@ title: "Universal Design vs. Accommodations"
 permalink:
 published: true
 date: 2021-05-28 13:31
-date_updated: 2021-06-04 12:11
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -20,7 +20,7 @@ attribution:
 
 Jamie Knight works for the BBC. He likes to say that his job is "to make sure that our apps, websites, and services [don't disable people](https://youtu.be/XBzXBY9G2u4?t=253)." That viewpoint is informed by the [social model of disability]({{ site.baseurl }}{% post_url 2021-04-26-Models-of-Disability%}#the-social-model).
 
-One method to not disable people is to practice universal design. [Universal design](https://projects.ncsu.edu/www/ncsu/design/sod5/cud/about_ud/udprinciplestext.htm) is the "design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design." If you practice universal design, you won't need to provide accommodations for people as often, because your building or website will be useable to more people by default. You may still need to provide some accommodations, but if you do your best to practice universal design and avoid disabling anyone, you won't need to provide specialized accommodations nearly as often.
+One method to not disable people is to practice universal design. [Universal design](https://projects.ncsu.edu/www/ncsu/design/sod5/cud/about_ud/udprinciplestext.htm) is the "design of products and environments to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design." If you practice universal design, you won't need to provide accommodations for people as often, because your building or website will be usable to more people by default. You may still need to provide some accommodations, but if you do your best to practice universal design and avoid disabling anyone, you won't need to provide specialized accommodations nearly as often.
 
 ### Universal Design
 
@@ -58,5 +58,17 @@ In schools, accommodations might take the form of extended time for tests, or be
 In the workplace, accommodations might look like raising or lowering a desk, being able to work from home, being provided certain assistive technology, or having a sign language interpreter present for certain meetings or events.
 
 Accommodations are often protected by legislation and mandated by law. For example, in the United States, Title I of the Americans with Disability Act (ADA) requires that certain employers provide [reasonable accommodations](https://www.dol.gov/agencies/odep/program-areas/employers/accommodations). However, accommodations are not be required if they create an "undue burden."
+
+The <abbr title="General Services Administration">GSA</abbr> draws a great distinction between accommodations and accessibility on the [Accessible Meetings](https://section508.gov/create/accessible-meetings) page on [Section508.gov](https://section508.gov):
+
+<blockquote>
+	<p>Understand that <strong>accommodation</strong> is not the same as <strong>accessibility</strong>:</p>
+	<ul>
+		<li>Accommodations are for <strong>individuals</strong> and are <strong>reactive</strong>.</li>
+		<li>Accessibility is for <strong>populations</strong> and is <strong>proactive</strong>.</li>
+		<li>Accessibility should make content <strong>available to all</strong>, in equally effective ways, at the <strong>same time</strong>.</li>
+		<li>Accessibility is the goal, accommodations are just tools to reach it.</li>
+	</ul>
+</blockquote>
 
 Accommodations are important, vital even. They help people with disabilities have equal access to important opportunities. But when it comes to accessibility, I think accommodations are more like fail-safe measures, designed to catch those who fall through the cracks of universal design.

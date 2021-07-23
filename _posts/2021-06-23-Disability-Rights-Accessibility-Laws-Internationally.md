@@ -4,6 +4,7 @@ title: "Disability Rights & Accessibility Laws, Internationally"
 permalink:
 published: true
 date: 2021-06-23 07:41
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -55,7 +56,7 @@ The CRPD really is very awesome. [Article 3](https://www.un.org/development/desa
 
 > The Convention not only clarifies that States should not discriminate against persons with disabilities, it also sets out the many steps that States must take to create an enabling environment so that persons with disabilities can enjoy real equality in society.  For example, the Convention requires States to take measures to ensure accessibility of the physical environment and information and communications technology.
 
-The CRPD is a binding treaty concerning the rights of persons with disabilities, and it explicitly mentions accessibility, universal design, and assistive technology. It's an international milestone, partly enabled by the digital accessibility revolution.
+The CRPD is a binding treaty concerning the rights of persons with disabilities, and it explicitly mentions accessibility, universal design, and assistive technology. It says that [denial of a reasonable accommodation](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/article-2-definitions.html) constitutes discrimination. It's an international milestone, partly enabled by the digital accessibility revolution.
 
 There is also an [optional protocol](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities/optional-protocol-to-the-convention-on-the-rights-of-persons-with-disabilities.html) to the Convention which authorizes the UN's Committee on the Rights of Persons with Disabilities to receive and monitor purported violations of the Convention.
 

@@ -4,6 +4,7 @@ title: "Disability Rights & Accessibility Laws, Outside the United States"
 permalink:
 published: true
 date: 2021-06-28 07:41
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -30,7 +31,7 @@ In this post, I'm going to look at national (or provincial) laws --- again, outs
 2. Procurement laws
 3. Domain-specific laws
 
-Civil rights laws often take the form of anti-discrimination legislation, making it illegal to discriminate against persons with disabilities and possibly mandating accessible goods and services. These laws often focus more on equal rights for people with disabilities than on providing social welfare, and consequently anti-discrimation laws typically affect both the public and private sectors. Some, but not all, civil rights laws have prescriptive guidelines for measuring accessibility. The growth of civil rights legislation protecting people with disabilities across the world can be linked to the growing influence of the social model of disability, as well as to the [Convention on the Rights of Persons with Disabilities]({{ site.baseurl }}{% post_url 2021-06-23-Disability-Rights-Accessibility-Laws-Internationally%}#convention-on-the-rights-of-persons-with-disabilities). The Americans with Disabilities Act (ADA) in the US is an example of a civil rights law.
+Civil rights laws often take the form of anti-discrimination legislation, making it illegal to discriminate against persons with disabilities and possibly mandating accessible goods and services. These laws often focus more on equal rights for people with disabilities than on providing social welfare, and consequently anti-discrimination laws typically affect both the public and private sectors. Some, but not all, civil rights laws have prescriptive guidelines for measuring accessibility. The growth of civil rights legislation protecting people with disabilities across the world can be linked to the growing influence of the social model of disability, as well as to the [Convention on the Rights of Persons with Disabilities]({{ site.baseurl }}{% post_url 2021-06-23-Disability-Rights-Accessibility-Laws-Internationally%}#convention-on-the-rights-of-persons-with-disabilities). The Americans with Disabilities Act (ADA) in the US is an example of a civil rights law.
 
 Procurement laws require that organizations buy accessible products and services. Procurement laws often target public entities (that is, governments). Section 508 of the Rehabilitation Act in the US is an example of a procurement law. Section 508 requires that federal agencies meet certain accessibility standards when they develop, procure, maintain, or use ICT.
 
@@ -59,12 +60,12 @@ For more on disability rights and accessibility laws in Canada, I recommend "[A 
 
 The [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) is a broad anti-discrimination act that explicitly protects people with disabilities. Here are some links where you can learn more:
 
-* [Equality and Human Rights Comission: Equality Act 2010](https://www.equalityhumanrights.com/en/equality-act/equality-act-2010)
+* [Equality and Human Rights Commission: Equality Act 2010](https://www.equalityhumanrights.com/en/equality-act/equality-act-2010)
 * [Gov.UK: Guidance on Equality Act 2010](https://www.gov.uk/guidance/equality-act-2010-guidance)
 
 ### Australia: Disability Discrimination Act
 
-In Australia, the [Disability Discrimination Act](https://humanrights.gov.au/our-work/disability-rights/brief-guide-disability-discrimination-act) prohibits discrimination against persons with disabilities, and [conforance with WCAG 2.0](https://humanrights.gov.au/our-work/disability-rights/world-wide-web-access-disability-discrimination-act-advisory-notes-ver) is "strongly recommended."
+In Australia, the [Disability Discrimination Act](https://humanrights.gov.au/our-work/disability-rights/brief-guide-disability-discrimination-act) prohibits discrimination against persons with disabilities, and [conformance with WCAG 2.0](https://humanrights.gov.au/our-work/disability-rights/world-wide-web-access-disability-discrimination-act-advisory-notes-ver) is "strongly recommended."
 
 ### New Zealand: Human Rights Act
 

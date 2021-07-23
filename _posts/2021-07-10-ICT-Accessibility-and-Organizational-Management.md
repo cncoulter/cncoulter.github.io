@@ -4,6 +4,7 @@ title: "ICT Accessibility and Organizational Management"
 permalink:
 published: true
 date: 2021-07-10 17:52
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -42,7 +43,7 @@ Accessibility is like a blueberry muffin. You don't want to add the blueberries 
 
 If you walk away from this post with just one idea about managing accessibility, it should be this: accessibility should be an ongoing program, proactive and built-in from the start.
 
-You may have heard professionals talk about "shifting left" when dealing with accessibility. This is what they mean: you should integrate accessibility from the beginning and throughout an entire project, rather than treating it as a final or optional step."
+You may have heard professionals talk about "shifting left" when dealing with accessibility. This is what they mean: you should integrate accessibility from the beginning and throughout an entire project, rather than treating it as a final or optional step.
 
 ### Recommendations from the W3C's Web Accessibility Initiative
 
@@ -175,12 +176,12 @@ When it comes to "human resources," there are three main priorities when it come
 2. Recruit and hire accessibility experts and people with digital accessibility skills.
 3. Train and develop your existing workforce on accessibility.
 
-Many organizations have nondiscrimination policies and ostensibly will (and want to) hire people with disabilities, but they are not really serious about it. They don't have accessibility policies or programs. Their website, their job postings, and their job application process may not be accessible. They don't proactively reach out to potential employees with disabilities, and they don't educate currently employees on accessibility or promote disability justice. Don't be like that.
+Many organizations have nondiscrimination policies and ostensibly will (and want to) hire people with disabilities, but they are not really serious about it. They don't have accessibility policies or programs. Their website, their job postings, and their job application process may not be accessible. They don't proactively reach out to potential employees with disabilities, and they don't educate current employees on accessibility or promote disability justice. Don't be like that.
 
-Hire accessibility experts when you can, and remember, practically everyone needs to know something about accessibility. Content creators need to create accessible content. Designers need to create accessible designs. People who work in customer service need to know about disability etiquette and need to be able to provide accommodations and support assistive technology. When you're interview job candidates for all sorts of positions, make it clear that you value and want accessibility skills. Consider listing accessibility certifications on job postings.
+Hire accessibility experts when you can, and remember, practically everyone needs to know something about accessibility. Content creators need to create accessible content. Designers need to create accessible designs. People who work in customer service need to know about disability etiquette and need to be able to provide accommodations and support assistive technologies. When you interview candidates for all sorts of positions, make it clear that you value and want accessibility skills. Consider listing accessibility certifications on job postings.
 
 Finally, train and develop your existing workforce on accessibility. It's useful to have in-house accessibility experts, and as we just touched on, practically everyone needs some accessibility skills. Provide accessibility trainings and encourage your employees to acquire accessibility certifications (and when they do, pay for their IAAP membership and exam fees).
 
 ### Remember What It's All About
 
-Finally, remember that while accessibility and universal design benefits everyone, it's essential for people with disabilities. Center people with disabilities. Engage with them, listen to them, include them, hire them, pay them well, and promote them. And remember that accessibility is only one piece of disability justice.
+Finally, remember that while accessibility benefits everyone, it's essential for people with disabilities. Center people with disabilities. Engage with them, listen to them, include them, hire them, pay them well, and promote them. And remember that accessibility is only one piece of disability justice.

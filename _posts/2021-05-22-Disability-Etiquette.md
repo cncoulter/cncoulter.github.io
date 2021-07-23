@@ -4,6 +4,7 @@ title: "Disability Etiquette"
 permalink:
 published: true
 date: 2021-05-22 13:31
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -17,7 +18,9 @@ attribution:
 - Imaged created by Cam Coulter. Icon by mikion <a href="https://thenounproject.com/icon/975769/">on the Noun Project</a>.
 ---
 
-I want to be kind to others, but sometimes I can be a socially awkward person, and I'm not always sure how to be kind. Sometimes, it can be confusing how to be kind toward people with disabilities. Our society routinely marginalizes and excludes those with disabilities, so many people without disabilities don't actually have much experience interacting with people who do have disabilities.
+Etiquette is a strange term. I'd rather talk about kindness.
+
+I want to be kind to others, but sometimes I can be a socially awkward person, and I'm not always sure how to be kind. Sometimes, it can be confusing how to be kind toward people with disabilities. Our society routinely marginalizes and excludes those with disabilities; therefore, many people without disabilities don't actually have much experience interacting with people who do have disabilities.
 
 Here are some tips and general principles for how to treat people with disabilities with kindness and how to avoid being a jerk.
 

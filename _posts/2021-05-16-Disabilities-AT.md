@@ -4,6 +4,7 @@ title: "Disabilities, Barriers, Adaptive Strategies, and Assistive Tech"
 permalink:
 published: true
 date: 2021-05-16 18:10
+date_updated: 2021-07-22 19:28
 categories:
 - accessibility
 tags:
@@ -37,7 +38,7 @@ People who are blind can also benefit from digital assistants, like Siri, Alexa,
 
 Audio descriptions can also be helpful to people who are blind. Audio descriptions are a special audio track in a video, which includes narration describing the visual elements of the video. Many videos unfortunately lack audio description, but audio description is slowly becoming more common. You can stream audio-described TV shows on Netflix and Amazon, for example.
 
-In physical environments, people who are blind can benefit from optical character recognition (OCR) software, which converts pictures into text that screen readers can process. OCR software can help you to identify bills of currency or read labels, for example.
+In physical environments, people who are blind can benefit from optical character recognition (OCR) software, which converts pictures into text that screen readers can process. OCR software, such as [Google's Lookout app](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.reveal&hl=en_US&gl=US), can help you to identify bills of currency or read labels, for example.
 
 We should also design our built environments so that people who are blind do not need to rely on OCR. Paper bills can be created in different sizes and textures, and we can use braille to make more things readable. We can even use tactile printing technology to create tactile maps.
 
@@ -67,7 +68,7 @@ In physical environments, people who are deafblind benefit from printed braille.
 
 People who are deaf, hard of hearing, and deafblind all have auditory disabilities. People who are deaf generally can't hear anything useful, while people who are hard of hearing do retain some useful hearing but may have significant limitations or impairments.
 
-In general, people who are deaf or hard of hearing benefit from audio content being communicated in other means, such as through sign language or captions. For example, an in-person lecture may have sign language interpretation or live captions projected on a monitor. Android devices have a [live transcribe feature](https://www.android.com/accessibility/live-transcribe/), which allows you to see computer-generated captions on the fly. (Computer-generated transcripts can be prone to mistakes, so it's often helpful to have transcripts created or edited by a human.) Videos should have synchronized captions. (Subtitles only represent spoken words, while captions convey speech as well as sound effects. Closed captions can be toggled on or off, while open captions are permanently burned into a video track.) Descriptive transcripts can also be a helpful supplement to synchronized captions. Alarms like doorbells, which are typically auditory, can instead be visual (a change in lights) or tactile (a vibration).
+In general, people who are deaf or hard of hearing benefit from audio content being communicated in other means, such as through sign language or captions. For example, an in-person lecture may have sign language interpretation or live captions projected on a monitor. Android devices have a [live transcribe feature](https://www.android.com/accessibility/live-transcribe/), which allows you to see computer-generated captions on the fly. (Computer-generated transcripts can be prone to mistakes and typically lack punctuation, so it's often helpful to have transcripts created or edited by a human.) Videos should have synchronized captions. (Subtitles only represent spoken words, while captions convey speech as well as sound effects. Closed captions can be toggled on or off, while open captions are permanently burned into a video track.) Descriptive transcripts can also be a helpful supplement to synchronized captions. Alarms like doorbells, which are typically auditory, can instead be visual (a change in lights) or tactile (a vibration).
 
 People who are hard of hearing may use hearing aids. People who are deaf or with significant hearing loss may use cochlear implants, which mimic normal acoustic hearing by directly stimulating the auditory nerve with electric signals.
 
@@ -79,7 +80,7 @@ When it comes to distance communication, people who are deaf or hard of hearing 
 
 There are many different disabilities that affect mobility. Mobility disabilities can affect both fine motor skills (like fluently using a mouse) and gross motor skills (like moving your arm).
 
-In physical environments, people with mobility impairments may have difficulty moving around or interacting with their environment (for example, opening doors, using faucets, or turning pages). Therefore, people with mobility impairments may use canes, walkers, or wheelchairs. Relatedly, it's important that physical spaces are designed inclusively: doors and hallways should be wide enough for wheelchair users. Accessible ramps should be provided in addition to stairs. Seating should accommodate a variety of people and body sizes. People with mobility impairments may also use versions of everyday products that are specially designed to be more ergonomic or accessible.
+In physical environments, people with mobility impairments may have difficulty moving around or interacting with their environment (for example, opening doors, using faucets, or turning pages). Therefore, people with mobility impairments may also use versions of everyday products that are specially designed to be more ergonomic or accessible. They may also use canes, walkers, or wheelchairs. Relatedly, it's important that physical spaces are designed inclusively: doors and hallways should be wide enough for wheelchair users. Accessible ramps should be provided in addition to stairs. Seating should accommodate a variety of people and body sizes.
 
 In the digital world, there are many different assistive technologies people with mobility impairments might use. First, they may use specially designed keyboards and mouses that are more ergonomic and easier to use. Styluses, head wands, and mouth sticks, often in conjunction with touchscreens, can be helpful to others. Eye-tracking software can allow a user to control a computer with only their eyes, and voice access software can allow a user (who can see the computer screen) to control their device with only their voice. Apple supports [voice control on Mac computers and iOS devices](https://www.youtube.com/watch?v=aqoXFCCTfm4), and Google supports [voice access on Android devices](https://www.youtube.com/watch?v=tXMcDitp3WQ). Even if people with mobility impairments don't use voice access to control their device, they may still use voice recognition software to type.
 
